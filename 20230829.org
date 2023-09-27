@@ -1,0 +1,130 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:nil broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:nil e:t email:nil f:t inline:t num:nil
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:nil tasks:t tex:t
+#+OPTIONS: timestamp:nil title:t toc:nil todo:t |:t
+#+TITLE: <2023-08-29 k>
+#+DATE: <2023-08-29 k>
+#+AUTHOR: Kalicz Péter
+#+EMAIL: kaliczp@gmail.com
+#+LANGUAGE: hu
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.9)
+
+
+* Jelen
+14 órától.
+** Szobában
+- KiGé
+- ZKiKA
+- CzKo
+- HoTi
+- KaPé
+- BrGá
+- SzÁr
+- BaTa
+- PrPé
+
+- KiBa
+
+** Online
+- HeAn
+
+** Nincs
+
+Sok minden van.
+
+* Személyi ügyek
+Kati kicserélve (új frizura).
+
+* Rendkívüli tűzvédelmi ellenőrzés
+Kenu betevése.
+Asztal.
+Diatár.
+
+* SOS feladatok
+Jegybeírás.
+
+Egyedi vizsganapok. Geon nem volt.
+Jóska kirúgta.
+
+* Tantárgyi követelmények
+Holnap a határidő. Fejléces papír!
+Levélbe megjelenő dolgokat belefoglalni.
+
+GrKati a felsőgeodéziát aktualizálja!
+
+* Szakdolgozat, diplomamunka feladatkiírásokat ellenőrzése
+Rendbe tenni
+
+* Buszigények
+Víztan
+Fertőrákos röjtök
+
+* Erasmus+ felhívás
+Géza Náhlikkal beszélt.
+
+Lengyelek intézményt, intézetet bemutatja.
+Tudományos dolgokat.
+
+17-én vasárnap jönnek. Erdélyi gyerek jön hozzánk?
+
+Januárig bezárólag lehet menni. Talán 24 végéig él a szerződés.
+
+Szeptember 8.
+
+* Balekhét
+Nem jelentkezett senki.
+
+* NRRC labor
+Dékán úrral leírta Géza. Endrével megbeszéli a dékán.
+
+* Kutatók éjszakája
+Le kellett adni az időpontokat. Okisok is beadták.
+
+Áron a regisztrációt nézi. Nagyon sürgős lenne.
+
+* Leica
+Csütörtökön jönnek frissíteni a GS16-ot.
+Van Cyclon 1 éves licenc.
+
+Kiállítáják a teljesítés igazolást.
+
+Cyclont lehet-e távolról elérni?
+
+* Rezervátum
+Tóth-árok kész lett. Virágos-hegy hiányzik. Bársony-atka
+kiütést okozott.
+
+Drónnal lehet repülni.
+
+A héten nem mennek.
+
+* Értekezelt
+Kedden reggel 8:30-kor.
+
+* Új autó
+Rektor úr részletes előterjesztést kér. Vagyongazdálkodási terv.
+Kuratórium hagyja jóvá.
+
+Magánautó intézeti feladatokra.
+Nagy autó sokszor ketten kell menni.
+Nem alkalmas terepre.
+
+Kuratórium szeptember végén ül össze.
+
+Kari autó is lenne.
+
+* Egyéb
+** Oktatás
+Zoli segítség
+
+Infrastruktúra kiírás
+
+*** CV-s vizsgák kiírása
+Legyen kiírva. Második hétre kiírni.
+
+** Dömsödi
+János fehérvári lápok térképezése.
+A rektor ki akarja tüntetni. Rajtunk keresték, mi kísérgessük.

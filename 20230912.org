@@ -1,0 +1,184 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:nil broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:nil e:t email:nil f:t inline:t num:nil
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:nil tasks:t tex:t
+#+OPTIONS: timestamp:nil title:t toc:nil todo:t |:t
+#+TITLE: Intézeti értekezlet
+#+DATE: <2023-09-12 k>
+#+AUTHOR: Kalicz Péter
+#+EMAIL: kaliczp@gmail.com
+#+LANGUAGE: hu
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.9)
+
+
+* Jelen
+8.30 órától lenne, de kicsit késve kezdünk.
+** Szobában
+- KiGé
+- HoTi
+- KaPé
+- BrGá
+- SzÁr
+- BaTa
+- CzKo 140 embernek előadást tart közben megjött
+- ZKiKA
+
+** Online
+- HeAn
+
+** Nincs
+- KiBa Kis Balázsnál
+- PrPé gyermek született
+
+* Kérvények
+Mindenki nézze meg.
+Vinkovits vadgazda MSc-t hallgatja.
+
+
+* Beszámoló a 9.6-i intézetigazgatóiról
+Online csatlakozott.
+
+Vezetői értekezlet. Hivatalos tájékoztatás Faipari Kar átszervezés
+3 intézet a sokból Csiha Csilla kutatási Horvát Péter oktatási helyettes
+Pepe tamás öccse ITF intézetben Építéstan AMI.
+
+1. AMI építéstan, ITF Markó Balázs
+2. Faanyag Fehér Sanyi
+3. Alapozó intézet Mechanika is Nem Hegyháti Máté Németh Laci vezetésével
+
+Iszonyatos ellentétek voltak. Endrét le akarták váltani. Akkor
+maradt, most is maradt. Faipari rész elsorvasztva. Nincs faipari
+mérnök. Nem is jelentkeznek. Ezt írom be azt, ja nekem kell.
+
+Ott van dékáni kabinet
+
+Nálunk is akartak, de úgy látták nincs szükség. Polgár Andrisnak csapatot.
+Kar nem gondolkozik átszervezésben, látszatintézkedés lehet.
+
+** Neumann János program
+Felhívása megjelnik. Kutatási állítólag.
+
+** AM támogatás
+Agrárminisztérium maradék pént adott. Távérzékeléssel támogatott
+termőhely. Mészáros Diannát felvették. Botondot fel szeretnék
+venni.
+
+Még lesznek ősszel kiírása.
+
+** SOS rendelkezések
+Hatékony volt a dolog 300 m Ft támogatástól nem estünk el.
+Vizsgának nem volt értelme, de a Neptun rendbe lett téve.
+
+4 * 13 hallgató = 52?
+
+** Publikációk
+Lekérdezést kértek 50%-on állunk 105 wos 88
+Intézeti kimutatást majd kapunk.
+
+Kari kötet: Tavalyi év
+második kötete, talán mindjárt megjelenik.
+
+** Erasmus
+Végül is nem nyújtottunk be semmit. Csütörtök, péntek.
+
+** Tűzvédelmi ellenőrzés
+Köszönték, hogy flottul ment. Hivatalos papírt nem kaptunk. Folyosón a
+fölső szekrényben.
+Vinkovits elküldi a határozatot.
+
+Gyöngyi csinált listát, mi került fel.
+
+** RRF informatikai beszerzés
+András állítólag Paár Dávid (pinpong) lett a vezetője. Ő kürtöli
+össze a társaságot, akik ki lettek jelölve.
+
+Gépek nem mégis mégse.
+
+** Autó
+Kisbusz, két autó.
+
+Van lekattintható jármű. Gyorsabb, mint a közbeszerzés.
+
+Suzuki Vitarára van esély. Másik három milyen. Lekattinthatónak
+is van díja 1.5 %. Vagyongazdálkodás része Irénkével egyeztetni.
+
+Nekünk jó a lekattintható.
+
+** Egyetemi honlap elkészült
+Saját honlapot tekintsük át, jelentsük a hibákat.
+
+** Mindenki levelek
+Mindenkire küldött levelekbe kiment, aminek nem kellett volna.
+
+Gidai Erzsébet megemlékezés politikai volt. Egyetem alapszellemiségével
+nem egyeztethető.
+
+** Jogosultságok
+15-e határidő
+
+** Fenntartói szerződés
+Indikátorok OK. Sikerült.
+
+** Szenátus
+Október elején
+
+Mindennapi működés nehézkessége. Pályázati beszerzés katasztrófa.
+Nagy drón Kornél szerint nem lesz.
+Fluenta és Posseidon
+Működés nehézség. Hirzrlelen mobilizálható 50 e Ft.
+
+Mi TKP pályázatunkkal raport.
+
+Rektor úr tudatta WC-ben Gézával, hogy 3. körben jóváhagyta a BorderEye-os pénzeket.
+
+** Zöld város, zöld egyetem
+Eltolták 18-ra, 12-t látott Zoli. Csak Géza kapta.
+Együtt működés a várossal. Témakörei, zöld gondolat. Hazai és EU pályázatok,
+közös pályázat. Fenntarthatósági szempont elbírálás.
+
+Segítséget nyújthat 2.3 és 2.4 széleskörű tevékenység jegyzék.
+
+* Demonstrátor
+Konkrét feladat és javaslat a bérezésre.
+Adómentes, 50 e, 30 e Ft/hó. Csak szorgalmi időszakban.
+Gondoljuk át, hogy milyen feladat. Központi keret. 25 év alatt adómentes
+Hány éves.
+
+Adatértékelés, labormunka, többi hallgató munkájának segítése, a felkészülést segíti.
+Erdészeti vízgazdálkodásból hozzá.
+
+* Lemorzsolódás
+Intézkedés
+
+* Szabadságterv
+
+* Szudáni bemutató
+- Abdul János 
+full time lecture GIS remote
+Rainfall variability drought flood adaptation.
+
+* Mehmed
+vezira university
+enviroment and forest departmant
+Savanna map sudan survey, GIS,
+
+* Bezir osman
+Kövérkés
+Karthum forest management
+Biodiversity on natural resources, land-use.
+
+Utána rohantam a levelezőkhöz.
+
+* Működési problémák (09.12.)
+
+* Zöld Város, Zöld Egyetem (09.12.)
+* Oktatási ügyek
+* Feladatkiírások (09.17.)
+* Szabadságterv (09.13. 14:00)
+* Jogosultságok (09.15.)
+* Tűzvédelmi ellenőrzés megállapítása
+* Egyebek
+** Zoli holnap használja
+<2023-09-11 h>

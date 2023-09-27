@@ -1,0 +1,212 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:nil broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:nil e:t email:nil f:t inline:t num:nil
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:nil tasks:t tex:t
+#+OPTIONS: timestamp:nil title:t toc:nil todo:t |:t
+#+TITLE: Intézeti értekezlet
+#+DATE: <2023-09-05 k>
+#+AUTHOR: Kalicz Péter
+#+EMAIL: kaliczp@gmail.com
+#+LANGUAGE: hu
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.9)
+
+
+* Jelen
+8.30 órától lenne, de kicsit késve kezdünk.
+** Szobában
+- KiGé
+- HoTi
+- KaPé
+- BrGá
+- SzÁr
+- PrPé
+- HeAn
+- KiBa
+- BaTa még órát tartott 9.15-re jött.
+- CzKo 140 embernek előadást tart közben megjött
+- ZKiKA még mér jött
+
+** Online
+
+** Nincs
+
+* Új időpont
+kedd 8.45-tól 
+
+* Félévkezdéssel kapcsolatos további teendők
+140 fős Geoinformatika
+
+Vizes élőhelyek csere.
+
+** Labor működés
+NRRC még nem volt tele.
+
+** EASMUS és SH
+konzultáció.
+
+Jön egy földmérő hallgató.
+
+** Tárgyfelvételek
+Noémi egyedül van.
+Átgondolni.
+
+** Kis létszámú
+Kovács Gábort hívjam fel.
+
+Ferenczi Larissza Gézánál hasonló.
+
+** Leterheltség
+Augusztusban tervezte áttekinteni.
+Még egyszer átbeszéljük.
+
+* Jogosultságok
+EMK erdőmérnöki jogosultságok
+
+MMK-ban Zoli is bent van Jóskán kívül.
+
+Az erdőtörvényben minden benne van. Jogosult szakszemélyzetként
+mindent tervez. Tagdíjat befizetni. Kamarán megvan a háttér.
+2022-ben a kamara felkérte a tagozatot.
+
+Kamara vizsga anyagot kidolgoztatta. 70%-os teszt, akkor nincs szóbeli.
+Van általános része a vizsgának. Jóskáék kidolgozták.
+
+4 válaszból egy a jó. Kornél és Szabó Péter is csinálta.
+Zoli a vízgazdálkodáshoz.
+
+Meg lett 5-ször vizsga hirdetve. Hiába van jogosultság,
+nem kívánnak élni a lehetőséggel. Tanúsítvány, amit a kamara
+ad ki nagy az érdeklődés.
+
+Továbbképzések
+
+1/2010-es FVM rendelet. 5000 Ft kiváltva és szakmai tevékenységet
+igazolni. Képesítésen kívül végzett-e? Azóta nem sikerült
+kivetetni.
+
+Szakszemélyzeten kívül akinek doktori fokozata van, aláírhat.
+Szakszemélyzeti vizsgán nincs műszaki kérdés.
+
+Egyetemi oktatók úgy nyilatkoznak, hogy nem mérnökök. Van ilyen is.
+
+Szakirányban felvehetnek alapozó tárgyakat.
+
+Erdőtörvényből ki kellene venni.
+
+** Füldmérő jogosultságok
+FÖMI-ből a Norbi a határügyi osztály. Valakit küldjünk.
+Oktatja, azt kellene.
+
+Nem engedtek át embereket IRM. Erdőmérnök + IRM.
+
+Kamara Erdőművelési területek térképezése.
+
+Most csak földrészleten belül lehet átvezetni.
+Erdőművelési ágú terület és határai.
+
+Drónozási jogosultság. Áron drónpilóta oktató.
+Aki felveszi drónpilóta képzés.
+
+Legyen erdőterület feletti drónozás leszűkítve. Vízügyesek is aktívak.
+Sokan akarnak erdő fölött repkedni.
+
+Ha támogatott és távérzékelési engedély, akkor be kell szolgáltatni a képanyagot.
+
+Földmérő mellé üljenek be. 29 földmérő elsős.
+
+* Honoris causa cím
+Nemzetközileg elismert
+Egyetem folyamatos kapcsolat
+Cím egyetem megbecsülését.
+
+Zólyomi dékán Sybilla rendszere miatt világhírű.
+Fabrika Gál Janó jó kapcsolata.
+
+Szolgay?
+
+* Nemzetközi utazások
+Táblázat. Szept 6-ig.
+
+Egytemi szinten közbeszereztetni szeretnék a nemzetközi
+utazásokat tervező cégeket.
+
+Adatbekérő excel. 2 évre előre tervezett.
+
+Konferenciák. Bécs is külfödi út.
+
+Elküldi és gyorsan töltsük ki.
+
+EGU, ERB, FORMAC konferenciák.
+
+* Demonstrátorok
+Szeptember 6.
+
+Géza küldi.
+
+Milyen feladattal.
+
+* Egyebek
+
+** TDK különdíjak
+december 6-án konferencia.
+
+*** Pilisi parkerdő
+Erdőfeltárás TDK és TDK különdíjazása
+
+50 e Ft.
+
+*** Örökerdő alapítávny
+Földmérési...
+TDK-t lehet promótálni.
+
+Földmérőket ösztönözni.
+
+** Munkavédelmi oktatás
+Aláírni.
+
+** Oktatásba bevonás
+Kutatót fel lehet-e tüntetni a neptunban?
+
+Kutatókat fel lehet-e tüntetni? Nincs
+félig oktató vagy kutató. Rektor nem
+enged osztott embereket.
+
+** Vaskádak
+Elviheti-e Nyúl Karcsi.
+
+** Autó
+Vagyongazdálkodási terv. 4 millió forint közbeszerzés.
+Másik három jármű beszerzése. 1 millió közbeszerzés.
+
+Tárgyalás alatt van, hogy melyik szálon.
+
+Másik 3 autó sincs engedélyezve.
+
+Duster vagy Suzuki Vitara.
+
+** Számítógépek
+Nem lesznek.
+
+** AM támogatás
+Bértervezés.
+
+** Erdőrezervátum
+A héten mennek? Péntek Gézának jó.
+
+** ERASMUS+
+Lengyelek.
+
+Warsó 10 kar LifeSciences!
+
+** HDIMI
+Tímeánál van.
+
+P-ben is VGA csatlakozó van.
+Zoli délután használná.
+
+** Október 16 Baja
+Erdőtörvényben benne.
+
+** Zoli ünneplés

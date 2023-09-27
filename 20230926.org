@@ -1,0 +1,176 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:nil broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:nil e:t email:nil f:t inline:t num:nil
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:nil tasks:t tex:t
+#+OPTIONS: timestamp:nil title:t toc:nil todo:t |:t
+#+TITLE: Intézeti értekezlet
+#+DATE: <2023-09-19 k>
+#+AUTHOR: Kalicz Péter
+#+EMAIL: kaliczp@gmail.com
+#+LANGUAGE: hu
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.9)
+
+
+* Jelen
+8.30 órától lenne, de kicsit késve kezdünk.
+** Szobában
+- KiGé
+- HoTi
+- KaPé
+- BrGá
+- ZKiKA
+- PrPé
+- KiBa
+- CzKo 140 embernek előadást tart késik
+
+** Online
+- HeAn
+- SzÁr beteg
+
+** Nincs
+- BaTa terepen mér
+
+* Jogosultságok
+December 1-én lesz kamarai továbbképzés.
+
+* Feladatkiírások
+Sikerült-e befejezni. Géza egyet sem írt alá.
+
+Van új diplomaterv/szakdolgozat sablon. Tartalomjegyzék és formai követelmények.
+Inétzetneve....
+
+* Lemorzsolódás
+
+BrGá ütköző tárgyak leadása.
+
+KiGé nincs igazán kitalálva, hogy hogyan kell számolni.
+
+PrPé szintén az ütközés. Nem engedni. Nem halad a hallgató.
+Kedvezményes tanulmányi rend. Nem tudják a gyakorlatot. Afrikai gyakorlaton hallgató.
+Nagyon szabadon veszik a hallgatók. Afrikai október közepén jön vissza, mindent pótolni.
+
+Októberi (9–12) CV sikerül, a ráépülő tárgyat felveheti.
+Közepén veszi fel a ráépülő tárgyat.
+
+Feladatbeadás.
+
+** Űrlap
+Űrlapot csinál Kornél QR kóddal. Volt aki korán beküldte.
+
+** Eredmények
+Online dokumentumok
+
+* Laborok
+** NAS
+Két vezetéket is be lehetne dugni. Párhuzaosítás is megy.
+
+** GT116
+Megoldották a problémát a hálózattal.
+
+* Kutatók éjszakája
+Pénteken 17-21-ig vagy 17-22-ig.
+
+Csipkó Csilla kihagyta a vizest. Illetve egy válogatást a programokból.
+
+Tímea hoz asztalt.
+
+** UAV regisztrációs díjak
+Papír leadva, viszik át.
+2000 Ft/db regisztráció.
+
+* Erdészeti műholdas
+TAEG Sentinel megrendelés. Kornélék megnyerték. 9 hónapja működő rendszer.
+
+* Gépjármű beszerzés
+Suzuki Vitara lenne, KEF listából. Színválaszték karcsú.
+Arany fekete tetővel.
+
+Van benne elektronikus diffizár. Vonóhorog!
+
+* Alföldi Erdőkért Emlékérem
+Javaslat szept. 27.
+
+Kiírást kellene írni. Géza továbbítja. Kucsara Misi kiadvány.
+
+* Roth szobor koszorúzás
+Szombaton jött. Suta volt. Kevesen voltak. Facsi levezette.
+Koszorúzás. 150 éves születési évforduló.
+
+Matthea ott volt. Bálint, Lakatos, Jánoska koszorúzott, mint utód
+intézetek.
+
+Erfurti szeminárium nem ment ki.
+
+* Erfurt Zöld
+Szeminárium megvolt. Diákok érdeklődtek. Vasárnaptól szerdáig vannak itt.
+Gábor és Bálint terepen vannak vele. Online kreditért voltak 60-an.
+
+* TKP
+Border Eye és Erdőlab szakmai beszámolók.
+Januártól márciusig.
+
+Sokáig tartott a megbeszélés és vitatkoztak.
+
+Jövő héten kedden délután BorderEye megbeszélés. Vezetői megbeszélés.
+Szenátus, nyolc munkacsoport. 1,5 óra max.
+14-től 15.30-ig.
+
+* Összdolgozói
+szept 8-i levél.
+
+Október 6-a Géza nem lesz. Nem csak kutatási, hanem működési
+tevékenység, szolgáltatás, egyéb feladatok.
+
+Kornél nem tud menni a fény-térképre. Zoli elmondja az utast.
+
+Az első felhívás. 2 diába a diszciplina kutatásait.
+
+9.00–13.00
+
+9.20–9.40 GKI. 15 perc, 5 perc diszkusszió.
+
+Kar munkatársainak kötelező részt venni.
+
+Csak levelező hallgatóknak szünet.
+
+* Projekthét
+Kevés a projekt. Intézeti szinten elég.
+November 6–10. 460 hallgatónak kötelező. Projekt hét sikeres lebonyolítása.
+Milyen új projekt? Szeptember 27. Lehet-e emelni a max létszámot. Összegyetemi
+mentorok kellenek.
+
+Tegnap Tomi azt mondta, hogy OK.
+
+* Szász Botond jön
+Új munkatárs szeptembertől. Bálint mehet.
+Bér megvan. Szerződés, mettől-meddig. Fluentát.
+Projekt elindult. Pénz megvan.
+
+/Soil sense/ távérzékeléssel segített termőhelytérképezés.
+Géza előterjesztés. Botond részt vesz a távérzékelési feladatokban
+és az oktatásban.
+
+Lézeres domborzatmodell, lefolyási modell kell és műholdas ET vizsgálat.
+
+* Albacomp Smart Forest
+800 milliós projekt 150 milliót kapunk.
+Új Jedlik-féle. Ipar-egyetem kooperáció.
+Drónk, kézi lézerszkenner, környezetfelmérés, összefüggés vizsgálat,
+webes szenzorok.
+
+* Évnyitó
+Elmaradt kitüntetések átadása. Sokan nem voltak.
+Pezsgőfürdő.
+
+* Egyéb
+** 4-es vetítés
+Előtte állsz.
+
+Mikor volt takaríttatva. Jóska elmegy nyugdíjba.
+
+Lehet utángyártott izzó.
+
+Fluenta átmegy. Ha van keretszerződés, külön szálon indul.
+

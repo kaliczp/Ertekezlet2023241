@@ -1,0 +1,127 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:nil broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:nil e:t email:nil f:t inline:t num:nil
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:nil tasks:t tex:t
+#+OPTIONS: timestamp:nil title:t toc:nil todo:t |:t
+#+TITLE: <2023-06-06 k>
+#+DATE: <2023-06-06 k>
+#+AUTHOR: Kalicz Péter
+#+EMAIL: kaliczp@gmail.com
+#+LANGUAGE: hu
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.9)
+
+
+* Jelen
+14 órától.
+** Szobában
+- KiGé
+- ZKiKA
+- CzKo
+- HoTi
+- KaPé
+- BrGá
+- SzÁr
+- BaTa
+- KiBa
+- PrPé
+
+** Online
+- HeAn
+
+** Nincs
+
+
+
+* Személyi változások
+Jóska elköszönt.
+Balázs újra itt.
+Kertész Péter doktorandusz a BorderEye-ban foglalkoztatva.
+
+* KariTanács
+** Kalmár S
+Drónnal együttműködnek.
+** Záróvizsgák
+Pozitív volt.
+
+Nagyjából mindenki négyes.
+
+Marad továbbra.
+
+** Agrárminisztériumi pályázatok
+Talaj és távérzékelés. Szénmegkötés. Dudles légilézer és dendromassza becslés.
+
+Fitfor55 Energia minisztérium.
+Humda = hungarian mobility
+Győrbe ment.
+
+Többi pont ottani jegyzetembe. Órát látogat és katalógust ellenőriz Kovács Gábor.
+
+* Órarend
+Balázshoz rendelés. Hivatalosan is jó lenne.
+
+Napokat figyelembe vették.
+
+Áron látta az órákat.
+
+* RRF
+Terem.
+
+* NRRC
+Porszobát kinézték a fások.
+
+NRRC helyén épület. Alja nélkül nem megy a teteje.
+Porelszívás, alapozás.
+Nem kell liftezni és lépcsőzni.
+
+Tímea a kódot is megnézi.
+
+* Vadgazda távérzékelés
+Neptunba nincs a tárgy. 2+2 és 2+3?
+
+Tegnap délután Noémi megcsnálta.
+
+* Kutatók éjszakája
+Szeptember utsó hétvégéje. Családi nappal.
+Vizest beírni.
+
+* Drónok BorderEye
+DJI Mavic3 MS
+
+DJI 350 rtk lézerszkenner és nagykamera.
+
+Regisztrálni kell rég Palkovics.
+
+Légteret megigénylik.
+
+Lézerszkenner lomb alatt jól kijött a domborzat.
+
+* Egyéb
+** Börzsöny
+Vízfogó
+** Bartha
+Véleményezni a törzsidőt. Professzoroknak körbement.
+Törzsidő nem jó.
+** Leica
+GS16 frissítés.
+Balázs budapesten mozog.
+** Tóth-árok
+Holnap mennek.
+** Autó használat/beszerzés
+Toyota szept 1.
+
+Rektor nem akar újat. Régit le kellene adni. Sok magánautó van bevonva.
+Közbeszerzés köteles, több autó.
+
+ÁFA visszaigénylős egyetem. Teherautó ÁFA visszaigénylő.
+Nettő 7 millió.
+
+Suzuki
+
+GH kulcsos autó.
+
+** Úttervezés Jeli arborétum
+Még nincs hír.
+
+** Áron ünneplés

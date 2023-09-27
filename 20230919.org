@@ -1,0 +1,304 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:nil broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:nil e:t email:nil f:t inline:t num:nil
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:nil tasks:t tex:t
+#+OPTIONS: timestamp:nil title:t toc:nil todo:t |:t
+#+TITLE: Intézeti értekezlet
+#+DATE: <2023-09-19 k>
+#+AUTHOR: Kalicz Péter
+#+EMAIL: kaliczp@gmail.com
+#+LANGUAGE: hu
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.9)
+
+
+* Jelen
+8.30 órától lenne, de kicsit késve kezdünk.
+** Szobában
+- KiGé
+- HoTi
+- KaPé
+- BrGá
+- SzÁr
+- BaTa
+- ZKiKA
+- CzKo 140 embernek előadást tart késik
+- PrPé
+
+** Online
+- HeAn
+
+** Nincs
+- KiBa vágányzár késik
+
+* Időpont
+Nincs jobb.
+
+Kalicz Péter jegyzetel.
+
+* Oktatási ügyek
+Feladatkiírások. Vasárnap volt a határideje.
+
+Szakdolgozat a nagyobb prioritás.
+
+Feladatkiírás négy példányban.
+
+Táblázatokat kitölteni. Leírások megvannak.
+Kész van Kornélnak.
+
+Mindenkinél más.
+
+* Porszoba
+Első ostromot úgy tűnt, hogy visszavertük. De nem.
+B épület alagsorában lenne egy helyiség. Jobb szárny pince.
+
+Zsidákovics Norbi keres bennünket.
+
+Primusz Péter szerint nem működik, hogy egy épülettel arrébb a porszoba.
+Nincs mozgástér szerinte.
+
+KiGé szerint a dékán is furcsán kezeli. Nincs új információ. Mekkora
+terhelés van pontosan? Ha odajutunk elég meghatározni. További
+érvek. Üljünk össze és beszéljük meg. Nem elég Zsidákovits Norberttel
+találkozni. Maradunk ahol van, raktárhelyiséget ajánlanak fel. Oda átvinni
+mindent.
+
+GrZo más ügyben beszélt és nyomatta a rektor és Markó is.
+
+Légvezeték levezetve, órák vannak. Porszobába talajt csinálnak. 5 perc.
+
+Kompromisszum, ha mindkettőt át akarják költöztetni.
+
+Mi vittünk be laborgépeket.
+
+CzKo utánajár, volt-e tényleg dékáni megkeresés.
+
+PrPé karnak is érdeke. Kiváló, így lett kiépítve. Potenciál csökken.
+
+GrZo Markó mondta Heil le lett egyeztetve. Heil csak annyi volt,
+hogy van egy helyiség, amit mondtak.
+
+Norbival a helyiséget, amíg.
+
+Labor, csempézve, mosdó, porelszívó. Porszoba elszeparálva.
+
+Szakirányok beajánlva. Javasolja, ha Zsidákovics keres, amíg nincs egyetetés.
+
+Legyen egy IGAZI egyeztetés.
+
+Mindenkivel terjesztik.
+
+* GreenMetric
+Új levél jött.
+
+Október 3-ig határidős. Polgár, Lakatos. 6.7 frissítés. Soproni Egyetemhez rendelése.
+2020-2023 időtávra. Október 2-ig végezzük el.
+
+* Oktatási ügyek
+Órarend, laborok.
+
+** NRRC
+NRRC labor. Hátsó gépre oktatóival bejelentkezve.
+
+Kedd 3–5-ig gyakorlat felszabadult.
+
+Amik kiestek, nem tudja a műszerész megcsinálni.
+Jelenleg 16 van.
+
+A három mennyi volt. VÁM lett rátéve. Van egy csomó
+a másodlagos piacon, de a BIOS le van védve.
+
+120 e Ft a három ÁFÁval. Messzire megyünk.
+Ha valaki felvállalja Kicses Zsolttal tárgylhat.
+Vagy a kapcsolója ment ki.
+
+Géza a Kiss finom elektronikával ment.
+
+Mindig az volt, hogy áramtalanítás után nem tért vissza.
+
+Két egér van a tanári gépnél. Kihúz-bedug.
+
+Iszonyú melegedés. Tanári gép kiszerelése.
+
+** GT 116
+Fotogammetria 2-t ott akarta tartani KiGé Nagy variálás az órarenddel.
+
+Szemben 114 felújított gépek (Tatai Sanyi) új AutoCAD elfut. Ha szűk
+keresztmetszet a labor kapacitás.
+
+Mivel közös, ezérte áttételesen mentek be az órák.
+
+** X és Y meghajtók NAS a C épületben
+X és Y meghajtó eltüntek. Fizikailag ott van-e a NAS. Ellopta valaki,
+kihúzva? Áramtalanítva.
+
+Adatok voltak.
+
+Kulcson a harmadik annak a zárja. Kikapcsolva elhozni. Ha fut akkor
+informatikusoknak szólni.
+
+** Labor szoftver
+Ákosék nem tudták megcsinálni.
+ArcGIS nincs. ERTI-nek van 50 licence. 40-et használhatunk. Tűzfal van.
+Portot nyitni.
+
+QGIS, TopoXmap frissítés nem volt, csak Windows.
+
+Nincsenek hálózati meghajtók. Egy közös meghajtó van, amit mindenki elér.
+Valami profilt nem másoltak rendesen. Nincs G, M...
+
+** GT 114
+40 gépes labor kell-e?
+
+CzKo ragaszkodjunk a nagy laborhoz is. Nem lehet az, hogy odamész, segítesz.
+Van aki segített a másiknak. Hatékonyan működik.
+
+Fönti labor 11 éves. Mennyit áldozzunk
+
+* RRF
+HaAn kapott levelet. Egyelőre folyamatban van. Elvi síkról
+konkretizálni akarnak. Türelmet kérnek. Tegnap délelőtt jött.
+
+Komoly kapaciáts fejlesztés.
+
+1.5 éve megy a projekt. 2026-ig tart.
+
+* Közeljövő eseményei
+** Évnyitó
+Ma délután 15 órától.
+Kornél tartja? Kinevezés, ösztöndíj nyertesek. Nyáron.
+
+** Leica nyílt nap
+Holnap Tomi és Botond megy Gézával. Hárman mennének a Toyotával.
+
+** Kottek munkahelyi vita
+Csütörtök Sárvár 13:30.
+Tegnap megcsinálták Hidegvíz-völgyet. Ki menne? Kornél óra és megbeszélés.
+
+Kell a Toyota. Janó biztos megy, van hely nála. Géza nevén.
+
+** Autó
+Van KEFes lista. Közbeszerzés ott nem ingyenes és kedvezőbb. Kari szinten 6 gépjármű 4 + utánfutó +
+markoló dudleszhez.
+
+Van ami biztosan nem beszerezhető. Kari kisbusz, Rétfalvi terepjáró (Hilux), Bálinték Ford rangeer
+utánfutó, markoló, nálunk terepjáró. Mészáros Diána intézi Vitara listából, ha nem akkor beszálnánk
+a másik társaság közbeszerzési díjába.
+
+** Zoli hallgatók
+Toyota péntekre megy.
+
+Pénteken megy a hölggyel Zoli. Új trendek a vízgazdálkodásban és a
+környezetvédelemben.
+
+** Költés
+Fluenta. GEVI 50 költendő
+1300 vállalkozási
+
+** Október 6 összdolgozói
+GrZo tömbösített órája van. Elmarad. Mindenki megismerjék a kutatásokat.
+Olyan, mint a Jankó. Negyed óra.
+
+Szakterületenként 5 perc. 9-től 13-ig. Ahogy közeledik egymás kutatásai.
+Nagyobb intézet. Hallgatói szervezetek külön idősávban. Október 6-i dolog.
+
+** Kutatók éjszakája
+Pénteken este kutatók éjszakája.
+
+Közeledik. Rajczi Eszter kérdezte a költséget.
+
+Szép új monitort a dékániból. Távirányítóra kötni. Facsinál bejelnteni.
+
+** Családi nap
+A kutatók éjszakáját követő szombat.
+
+Drónokkal kapcsolatban hivatalos röptetési engedély elúszott.
+
+** Drónszámla
+Aug 30-án lejárt. Rossz adószám. Lejárt.
+Lestornóztatták és új számlát állítottak ki.
+
+* Egyebek
+Primusz Péter gratuláció.
+
+* Lengyelek
+Institute Forest Science
+
+Faculty of Forestry for students only.
+
+tasie mleczko süti.
+
+Spatial planning land management.
+Garden planning other faculty.
+
+Michail vice-dean
+
+Institute of Forest Science:
+- Department of Forest Management Planning, Dendrometry and Forest Economics.
+
+Teaching Forestry. 
+
+Polish life sceince universities. 9 universities, 3 are traditional forestry education.
+
+1000 students / forestry for whole cuntry. University.
+
+Marymont is the origin agricultural school
+
+70 ha campus. Dormitory. Building of forestry.
+
+New buildings. Garden. Student activity. October acadimic year and ended June.
+
+2 weeks exam termin. Swimming pools, shop, but no alcohol.
+
+Open university days.
+
+13 faculties.
+
+15 e student + 10 e levelező
+
+3.5 év engineer bachelor
+1.5 év MSc
+
+Small region. Joint program with Eberswalde Germany.
+
+Engenieering curricula.
+
+Nem annyira műszaki.
+
+Write theses, two weeks exam short.
+
+9 study offers in English. One of Forest Information Technology.
+
+Rogów Forest experimental station.
+
+Arboretum biggest collection acer.
+
+Experimental station students.
+
+Field trips, Warsaw, management plans.
+
+Hungarian intership. One classes, some money.
+
+Prag, Zvolen, Ukrain forest.
+
+** Visagrad projects
+University getting many of 
+
+V4 posnan university.
+
+3 time/year dedline. Only for cooperations!
+30 e Eur 18 months. NGO, not easy science.
+Non scientific activity.
+
+** Forest management planning
+
+20% private forest. Every forest management plan.
+
+whole country LIDAR free of charge.
+Road inventory based on.
+
+Discussion.
+
+** Qu
+How many masters?
