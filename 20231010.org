@@ -1,0 +1,68 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:nil broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:nil e:t email:nil f:t inline:t num:nil
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:nil tasks:t tex:t
+#+OPTIONS: timestamp:nil title:t toc:nil todo:t |:t
+#+TITLE: Intézeti értekezlet
+#+DATE: <2023-10-03 k>
+#+AUTHOR: Kalicz Péter
+#+EMAIL: kaliczp@gmail.com
+#+LANGUAGE: hu
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.9)
+
+
+* Jelen
+8.45 órától lenne, de kicsit késve kezdünk.
+** Szobában
+- KiGé
+- HoTi
+- KaPé
+- BrGá
+- PrPé
+- SzÁr
+- BaTa
+- HeAn
+- ZKiKA
+- KiBa
+- SzBo
+- CzKo 140 embernek előadást tart kicsit késik
+
+** Online
+
+** Nincs
+
+
+
+
+* Botond bemutató
+Szász Botond már munkatárs.
+
+* Kari összdolgozó
+Bemutatás
+
+* Porszoba
+KiGé: Csak tájékoztatás volt. Nem volt lehetőség semmire.
+
+Magos dékán úr nem érezte, hogy szervezni kell. Markó Balázs a mester
+tervben benne volt. Nem volt eredménye.
+
+Januárban át kell költöztetni. B épület rámpás lejárós garázs.
+
+BrGá EMK vezetés beleegyezett. Bálintnak említették.
+
+Nagy fejlesztések és egy porszoba nem akaszthatja meg. Egy dolog, hogy
+mi történt régen, ez már eldöntött dolog.
+
+Markó Balázs lehet néhány év és nem lesz itt.
+
+350 millió még nincs meg.
+
+Talajmechanika és a másik labort MOST nem érinti. Miénkbe és a múzeum
+helyiségébe egy másik labor kerül. Bak Miklóstól.
+
+Hosszú távon a C épület lesz az EMK épülete, ahol egy talajmechanika
+labort lehet csinálni.
+
+Még folytatódik. Egy emberre nagy hely jut.
