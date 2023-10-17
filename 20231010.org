@@ -4,7 +4,7 @@
 #+OPTIONS: p:nil pri:nil prop:nil stat:t tags:nil tasks:t tex:t
 #+OPTIONS: timestamp:nil title:t toc:nil todo:t |:t
 #+TITLE: Intézeti értekezlet
-#+DATE: <2023-10-03 k>
+#+DATE: <2023-10-10 k>
 #+AUTHOR: Kalicz Péter
 #+EMAIL: kaliczp@gmail.com
 #+LANGUAGE: hu
@@ -18,16 +18,17 @@
 ** Szobában
 - KiGé
 - HoTi
-- KaPé
-- BrGá
-- PrPé
-- SzÁr
-- BaTa
-- HeAn
-- ZKiKA
 - KiBa
 - SzBo
+- BaTa
+- PrPé
+- HeAn
+- SzÁr
 - CzKo 140 embernek előadást tart kicsit késik
+- BrGá
+- ZKiKA
+- KaPé
+- GrZo
 
 ** Online
 
@@ -40,7 +41,9 @@
 Szász Botond már munkatárs.
 
 * Kari összdolgozó
-Bemutatás
+Mindenki a benyomásait elmondta.
+
+Célja volt, hogy megismerjük egymást.
 
 * Porszoba
 KiGé: Csak tájékoztatás volt. Nem volt lehetőség semmire.
@@ -65,4 +68,74 @@ helyiségébe egy másik labor kerül. Bak Miklóstól.
 Hosszú távon a C épület lesz az EMK épülete, ahol egy talajmechanika
 labort lehet csinálni.
 
-Még folytatódik. Egy emberre nagy hely jut.
+Még folytatódik. Egy emberre nagy hely jut. Lehet olyan oka is, hogy a
+rezsi magas. Közgáz bejön, de ott az évzáró, p épület. D-re is már
+három terv készült.
+
+Néhány perces beszélgetés volt a összehúzódással. Készül egy feljegyzés.
+Bálint ír.
+
+** Átköltözés
+Csak egy gipszkarton van NRRC-ben. Elég, ha utolsó pillanatban költözünk.
+Ki egyeztet Markó Balázzsal?
+
+Gipszkartonozással a csövekkel. Egresitsné Katalin az FMK-n bonyolíthatja a
+költözést. Lesznek-e hó-rukk fiúk.
+
+* TDK
+Konferenciára meghívás. Megkaptuk.
+
+December 6. Október 13-g jelentkezni. Leadás november 11-ig.
+
+ÚNKP 2, éa a demonstrátor.
+
+* Szakdolgozat leadás
+November 10. Kiírások megvannak. Tímea beszkenneli.
+
+* CV
+Ki kellett volna írni a plusz időszakra. Ráépülő tárgyat felveheti.
+Ha valaki felveszi.
+
+* Balázs lakhatási támogatás
+Külön megbízással. Külön feladatot kitalálni. Kolidíjat csinálja.
+Központi keretre elszámolni.
+
+Porszoba költöztetéssel kapcsolatos egyeztetés.
+
+* Autók
+Leadva Selmeci kirándulásra.
+
+Géza szombaton magáncélra használja a Toyotát.
+
+* Egyéb
+** Projektor
+Gyöngyi asztaláról KaPé elviszi a projektort.
+
+Izzóról fejlemény. Utángyártott van. Eredetit tudnak-e beszerezni.
+330 e Ft. Modullal együtt.
+
+RRF beszerzést visszadobták.
+** Projekthét
+Teremfoglalás pontos legyen. Nem tudják milyen terem.
+Előzetes teremfoglalás, formsszokkal. Projket kurzus, létszám.
+
+Teremfoglaltság. NRRC labor megy. Nem lesz nagy zajterhelés.
+
+** Laborok
+Működik, nem működik a központi labor?
+
+** OEE erdélyi rendezvény
+Októberi rendezvényre megy-e?
+
+** Tantervfejlesztés
+november megbeszélés EMK tanácsteremben.
+
+PWC csinált diákat. RRF-hez csatlakozik.
+
+** ESZR
+okt 30 TAEG. Modul használat felelevenítés.
+
+** 4-es terem könyvek
+Átnzni és selejteznek.
+
+Innen elmentem órát tartani.
