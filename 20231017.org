@@ -1,0 +1,151 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:nil broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:nil e:t email:nil f:t inline:t num:nil
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:nil tasks:t tex:t
+#+OPTIONS: timestamp:nil title:t toc:nil todo:t |:t
+#+TITLE: Intézeti értekezlet
+#+DATE: <2023-10-10 k>
+#+AUTHOR: Kalicz Péter
+#+EMAIL: kaliczp@gmail.com
+#+LANGUAGE: hu
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.9)
+
+
+* Jelen
+8.45 órától lenne, de kicsit késve kezdünk.
+** Szobában
+- KiGé
+- HoTi
+- SzBo
+- BaTa
+- PrPé
+- KiBa
+- SzÁr
+- BrGá
+- ZKiKA
+- KaPé
+- GrZo
+- CzKo 140 embernek előadást tart kicsit késik
+
+** Online
+- HeAn
+
+** Nincs
+
+* Green Metric pályázat: október 18 végső póthatáridő!!!
+Sürgős!
+
+Két dolog:
+- éves jelentés
+- pályázat előkészítése
+
+** Publi
+MTMT-t frissíteni, google scholar.
+
+** Indikátorok
+Nagy hatással vannak. 2.14 HydroCarpath
+
+Google Tudósból kiexportálni a listát. 2020–2023 között.
+
+Mi legyen vele? Lakatos Ferit megkérdezi Géza.
+
+Kari publikációs kötet áll, DOI hivatkozás nem működik. Hogyan pótoljuk?
+
+* 81. OMÉK 2023.10.20. jelentkezés 10.18 12:00-ig
+Szeretne-e valaki menni?
+
+* Publikációk
+Jelenleg 150 (tavaly 290 volt), MTMT feltöltéseket október 20-ig ellenőrizni!
+
+Várjuk a kari kötetet.
+
+Péntekre nézzük át az MTMT-t.
+
+* Jogosultságok kérdése
+Kari tanácsra elő kell készíteni.
+
+Fizikai és mechanikai alapokra átnevezni a tárgyat. Zoli szerint a neve alapján
+komolyabbnak tűnik.
+
+Szakirányban lenne két mechanikai tárgy. Csak akkor érvényes, ha a törvényben átírják
+csak akkor van értelme.
+
+PrPé szerint a mozgások is benne vannak. Miért nem csak fizika?
+
+KiBa törvény szerint nincs jogosultság erdészeknek. Erdőtrövény a
+jogosult szakszemélyzet mögött áll.
+
+Tudja-e rendezni államititkár úr a szükségeseket? Alpár Tibor intézi a
+házilag átnevezést.
+
+Házon belül. A rektor azt mondta, hogy vissza kell hozni a statikát és a szilárdságtant.
+1+2-es tárgyakat javasotak a fások. Csak akkor van érelme, ha törvényben és kamarában
+a szakirányt fogadja. Jó lenne tudni, hogy hogyan működnek a szakirányok?
+Rajtunk múlik minden. Jogosult szakszemélyzet ráteszi a szignót. Főnök mondja, hogy írja alá.
+
+Rektoriban múlt hét csütörtökön volt a rektoriban. Dékánik, Alpár,
+táblázat, ami belső megoldás és államtitkári segítség.
+
+Alaptárgy átnevezés GrZo gondolja. Táblázat Alpár Tibornál, oda kell anyagot küldeni.
+
+Statikát és szilárdságtant kiszedni, ha bemegy a szakirányba a két tárgy.
+
+Géptan, használat, környezetvédelem.
+
+* SH beszerzések
+Kellenének a hallgatók. Ki a hallgató.
+Nevek azonosítása.
+
+Honlapra is felküldhetők.
+
+2 millió Zsákaitól kaptunk árajánlatot. 510e Ft. + 5%
+tartalék. Túllépés esetén a saját keretből fizethetjük-e?
+
+Stipendiumból fizetünk és keretáthelyezéssel feltöltjük.
+Abdulrakmannak kell a gép. Az egyik első évesnek.
+
+
+* Egyebek
+** SoilSense
+Megbeszélésre megy Kornél 11-től. EnviroSenses beszerzést keretszerződéssel csinálni.
+Simán megrendelve és leszámlázva. Kizárólagosságot végig vitték. DKÜ-n megfeleltek.
+Rezervátumból is akarnak. Ahol nincs adatuk, ott nem tudnak adni.
+
+Kornél szerint egy hónap.
+
+** Üzbég delegáció
+Jövő hét szerdán (okt 25-én) ki fogja fogadni.
+Andian institut economics construction
+
+** Demonstrátor
+Gábor válaszolt. Hallgató keresse meg. Hogy fogja konzultálni a többi hallgatót?
+
+Mely tárgyakban korrepetál? Pontosan megadni. TDK 3 hét.
+
+Nagy Péter korrepetál.
+
+** Szoftverek
+Áron a Carsonon regisztrált.
+Végh Sándor mindenkinek névreszóló hozzáférést küld.
+
+Szoftverek Tímár Andrea és Zsákai Balázzsal.
+
+Összdolgozóin kiderült. Nem volt szó. Tímár Andival direktbe beszélnek.
+
+Tájékoztató jelleggel 25 labor + 5 oktatói 995 $/év. Ugyan ezért az árért tud
+örökös licencet adni.
+
+Ortofotós web-es. Arra nem adtak.
+
+** Porszoba
+KiBa Markó Balázsnak írt, de nincs válasz. Bálint írt.
+Komplexlab elszívásra írt. Rékáék P-be költöztek.
+
+** Projekthét
+Tímea kiírta a tárgyakat.
+
+Egynapos projektheteket tartanak.
+
+Hallgatói morál.
