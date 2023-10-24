@@ -1,0 +1,200 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:nil broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:nil e:t email:nil f:t inline:t num:nil
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:nil tasks:t tex:t
+#+OPTIONS: timestamp:nil title:t toc:nil todo:t |:t
+#+TITLE: Intézeti értekezlet
+#+DATE: <2023-10-10 k>
+#+AUTHOR: Kalicz Péter
+#+EMAIL: kaliczp@gmail.com
+#+LANGUAGE: hu
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.9)
+
+
+* Jelen
+8.45 órától lenne, de kicsit késve kezdünk.
+** Szobában
+- KiGé
+- HoTi
+- BaTa
+- SzÁr
+- BrGá
+- ZKiKA
+- KaPé
+- GrZo
+
+** Online
+- HeAn
+- KiBa
+
+** Nincs
+- PrPé utazik
+- SzBo
+- CzKo 140 embernek előadást tart kicsit késik, majd üzbég delegáció
+
+* Green Metric
+Mégis kell a HydroCarpath. Nemzetközi.
+
+* Porszoba
+Bálint írt emlékeztetőt.
+Bele kellene írni, hogy akaratunk ellenére.
+
+Hat pontot írt. Géza olvassa.
+
+1. ?
+2. Sűrített levegő.
+3. Porszoba oktatás szaladgálás. +1 fő tanórák.
+4. Egyhetes tervezés Prof. Markó Balázs. Átalakítás a tavaszi félévre.
+   C épületbe?
+5. ?
+
+Akaratunk ellenére, ezzel egészítik ki. Tomi szerint szakmait kellene írni.
+Primusz Péter GrZoz
+C épület alagsora cipelni kell, illetve a kilátás.
+
+Kati javaslata a természetes fény a vizsgálatokhoz.
+
+NRRC hosszú távú fejlesztése. Egyéb helyiségek költözéséről nincs
+szó. A többit nem szándékozzák.
+
+KFI nek 300 m^2 volt.
+
+GrZo vizsgaidőszakban kellene költözni.
+
+* Szoftver, laborbeszerzés
+Tímár Andi jelezte, hogy el van döntve minden. Nem akart belenyúlni.
+Nem a megfelelő helyen futott.
+
+Senki sem tudott róla, hogy akarunk. Indikatív árajánlatra kiment.
+
+Eredeti körben.
+
+Carson PrPéternek küldött árajánlatot. Specifikálva. 25 hallgató és oktató.
+Tímea kari keretre beírta.
+
+GrZo sok pénz maradt dékáni kereten.
+
+GT laborok. 115-ben az első két sor saját géppel leülhetnek.
+
+B épületek laborok távlati terv.
+
+** Geós
+Egyéb szoftverek.
+
+ITR sorsa bizonytalan.
+
+LEICA Captivate az LGO-t kiváltja.
+Infinity
+
+LGO Windows 10 frissítése több, mint Infinity.
+
+ARC GIS 50 licenc az ERTInek, amiből 40-et használhatunk.
+Hozzáférhető. Nekik jobban megéri. Feltört verziót használnak.
+
+Képegyeztető szoftverek tekintetében több minden van.
+
+ENVI újabb verzió a doktoranduszoknak.
+
+** Vizes
+Szabad szoftverek.
+
+Esetleg Hydrus licenc. A 2D fizetős és hasznos lenne.
+FlexPDE véges elemes szoftver. Bármire programozható.
+
+* Jogosultságok
+Dobó indította a rakétákat. Legyen törvényi szinten is egyeztetés
+10/2012 kormányrendelet, építészeti jogosultság.
+
+Zambó két évvel ezelőtt minden jogosultságot szeretett volna.
+Építészeti jogosultság irreális. Műszaki specializáció alapján
+építész MSc-be be tud lépni.
+
+Szakirányt reklámozni.
+
+A régi diplomával belépni. Sok helyen tárgycsoportokból kreditet.
+
+
+* Üzbégek
+Holnap géza bemutatkozik. Építész jellegű?
+Géza igazítja az anyagot.
+
+* SH beszerzések
+Hogyan haladnak? Móni Londonban, majd kórházban.
+
+* Projekthét
+** Geó
+60 főre bővített.
+Hétfőn feladat kiadás és szerda beszámoló.
+
+** Vizes
+Hidegvíz-völgy
+
+** Utas
+5 fő Útállapot felmérés.
+
+** Vancsó Judit
+Előadás.
+
+** Ált
+Három nap jó kompromisszum.
+
+Csak aláírás van. Legyen produktum.
+
+* Insula Magna
+Fordítás.
+
+* Engedély a belépésre
+Megvan!
+
+* IUGG, MTA GGTB
+IUGG jelentés.
+Most válaszották a bizottságot.
+
+Zoli nem mindig tud elmenni. Bár valahol ott heverhet a pénz.
+
+* Neptun
+Most küldött a Kovács Gábor. Október 31-ig kell kiírni a kurzusokat.
+Órarendi igényeket összeszedni.
+
+Online táblázat lesz. Ma és holnap a neptunba kiírni.
+
+* Drónképzés
+Lesz holnap 1-től 2-ig megbeszélés. Oktatás, oktatási központ ETK-val
+együttműködve. Nem Richárd, hanem Papp Laci lenne a vezetője.
+
+RRF-es pályázat. C-s tárgy lehetne, ami keretében a jogosultságokat
+meg lehet szerezni.
+
+A1-A3 ingyenesen megcsinálható, elméleti vizsga féléves. Ezeknél
+kihelyezett dolgokat a KTI nem engedi. Az A2-t is csinálja. Magasabb
+szinten nincs KTI meghatározva, illetve kihelyezett vizsgaközpontok.
+
+Permetezés és erdészeti permetezés. ETKval közösen. Zöld könyvvel tanfolyam
+elvégezhető. Itt legyen a képzés hosszútávon.
+
+* Záróvizsga és felvételi bizottságok
+Akarunk-e változtatni. Jan 11-én.
+
+Kornélnál Dániel-Toró, Dóra és Gergő, Jámbor Dávid, Dobai Roland.
+
+Szabadságterv megnézése
+
+* Egyéb
+Holnap Zoli kórházban.
+
+** Baja
+Csütörtök.
+
+** Munkavédelmi
+Bejárás. Nem volt semmi.
+
+** Intézeti események
+Nincs határidő. Projekthét és HydroCarpath.
+
+** Középsulis szünet
+Minden nap óra. GrZo helyettesítés.
+
+** TKP
+Ruhaméret. Beszerzések nem mennek.
