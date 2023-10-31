@@ -1,0 +1,259 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:nil broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:nil e:t email:nil f:t inline:t num:nil
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:nil tasks:t tex:t
+#+OPTIONS: timestamp:nil title:t toc:nil todo:t |:t
+#+TITLE: Intézeti értekezlet
+#+DATE: <2023-10-10 k>
+#+AUTHOR: Kalicz Péter
+#+EMAIL: kaliczp@gmail.com
+#+LANGUAGE: hu
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.9)
+
+
+* Jelen
+8.45 órától lenne, de kicsit késve kezdünk.
+** Szobában
+- KiGé
+- HoTi
+- SzBo
+- ZKiKA
+- PrPé
+- SzÁr
+- CzKo 140 embernek előadást tart kicsit késett
+- BrGá
+- KiBa
+- GrZo
+- KaPé
+
+** Online
+- HeAn
+
+
+** Nincs
+- BaTa
+
+
+* Intézetigazgatói
+
+** Fenntartói költhető
+Ezt is idén el kellene költeni.
+
+A fenntartó alapján, de nem karok alapján osztják pontosan. Van benne rugalmasság,
+nem tervezhető. Többet kaptunk, mint amire számítottunk.
+
+A Büki javaslat is erre született, hogy el lehessen költeni.
+
+** Műszaki hiba
+Bármit jelölni az online rendszerben.
+
+A mellett még Zsidákovits Norbinak is, ha prioritása van.
+Szólt Áron a portán. Tímea is telefonált.
+
+Zsidákovits a műszaki osztály vezetője.
+
+** Maradvány kisbusz
+32 m Ft a maradvány 16 m Ft Toyota kisbusz. Rendes közbeszerzésbe veszik.
+Még nem indulhatott el, mert a kuratórium nem hagyta jóvá. Idén még nem biztos,
+hogy lesz. Raktáron van.
+
+** Bérkifizetés
+75% 25% arány marad. A 25% tartalék is az intézethez kerül. Nem tudjuk,
+hogy mire költhető.
+
+TKP projekten Andi 33%-ot mondott. Ott növelték. Pályázatok külön dolog.
+Ott 33%, de abból mi is 25%-ot kapunk. Doktorarndusz kifizetés nem
+bérbeszámítás. Áron 100%-ban volt, e miatt nem lehet. Rektor mondta.
+
+Idén 125 mFt speciális támogatás.
+220 mFt az Egyetemből.
+
+Jövő évi költségvetési tervet le kellett adni. Nem tudni, hogy ki-hogyan vett részt.
+NRRC labort beírtuk 21 gép 21 szoftver. Januárban beszerzés?
+
+Szerda dél volt a határidő. 700 e Ft/ munkahely. Tervezés nem volt átgondolt.
+Túl sokat nem mert beírni. 40+ mFt lett a költségtervünk.
+
+PrPé kisdobozok jó lenne. Beírta a tervbe. Kari keret.
+
+Carlson szoftver is jó lenne!
+
+Leica Infinityre kaptunk kedvező ajánlatot. Labor, örökös licenc.
+
+** Védőeszközök
+Központi keretre. Minden munkavállalót megillet. 5-éig kell kitölteni.
+Jobb lenne, ha ugyan az lenne.
+
+Akinek tönkrement, megjegyzésbe, hogy tönkrement. Mentőmellény. 4 fős.
+
+Minden tételnek új sort nyitunk.
+
+** Agrárminisztérium
+Erdőfelújításra és vmire pályázat. 80 mFt van. 20 mFt-os igényt nyújtanak be.
+Lakatos Feriék megbízva a téma összefogásával. Frank Norbi előzetes anyagot
+készített. Távérzékelés is szerepelhet benne. 1–2 oldalas szakmai anyagot várnak.
+
+Termőhely típus változat kiadvány felújítására FVM rendelet módosítása.
+Kemény lombos sarjaztatás irányelvek. Nem rég óta megengedett.
+Leromlik, tüzifa rendelettel kapcsolatban jött.
+
+Nem őshonos fajok.
+Francia anyag mezővédő erdősávos anyag. Erdősávok.
+Nálunk is iszonyatosan lecsökkent.
+
+Géza továbbküldi. Ma estig várja.
+
+Feladat – kimenet.
+
+** Önköltséges képzések
+40%-ból 20% visszaforgatni. Intézetnél 40%, fele személyi kifizetés!
+Abban az évben ki kell fizetni. Elvesző keretek.
+
+Nálunk nem indul.
+- Földmérő :: 2024 szeptemberig eltolva. Jó lenne tovább is eltolni.
+- Utas-vizes :: van? Zoli szerint kidolgozva.
+
+** Kari vacsora
+Eredmény Katinak köszönhetően 9-en büki 10-en itteni.
+
+Csoportban mindenki látja. Új csoportja van az intézetnek. Új csoportban beszélünk.
+Mindenkit hozzáadtunk.
+
+Kari vacsorára doktoranduszok is jöhenének Bükre ne!
+
+* NRRC labor
+11 gép oktatói bejelentkezés 13 bent elindítva kint is működik.
+19-esnél ki volt húzva a kábel.
+
+Ne csináljanak semmit.
+
+* KT
+Ma 13-tól.
+Minőségbiztosítás
+Oktatási ügyek
+Záróvizsga
+Keresztféléves felvételi
+2024 évi ülésrend
+Egyebek
+
+Környész.
+** Záróvizsga
+5 fő a végzősöknél.
+
+Külsős embert keresni.
+
+Soproni földmérő cégtől valakit megfűzni.
+
+** Hallgatói kitüntetésre javaslat?
+KT kiegészítve.
+Szélessy Tünde martelloszkóp
+Földmérők közül nem nagyon van.
+
+Ha van valaki, beterjeszthető.
+
+* Órarendi igények
+Oktatási ügyek 2. féléves kurzusok kiírása + órarendi igények.
+
+Geostatisztika + Nagyméretarányú
+
+2. félévben sok óra. Távérzékelés gyakorlati kurzust vinne.
+
+Talajtaniban víztan.
+Környész van-e óra?
+
+Kedd reggel 10-től ne legyen!
+
+* Laborok
+GT 116-al sok variálás. Előre le kell adni, hogy legyen prioritásunk.
+
+CzKo indítsunk NRRC labor felújítást. Beruházási tervbe beadva.
+
+* Drónos képzés
+Hallgatók részt vesznek és le tudnak vizsgázni.
+1+1 óra. Tananyag részek meteo, műszaki, kopterek.
+Ami az alapvizsgában van.
+A1-A3 alap A2 ráépül, de elmélet ugyan az. Vizsgaközpontba
+lehet megtenni a vizsgát!
+
+KTI végig kell pörgetni anyagot A1-A3-ra. A2-re kell gyakorlati.
+
+Ingyenes a tanfolyam, osztrákoknál ingyenes. Utsó órán megcsinálható.
+Sok egyetem csinál, nem kell lemaradni. Permetezés erdősítésben erdőmérnök.
+
+Kertész Péter megcsinálta a drága tanfolyamokat, speciális és permetező.
+Nem volt még vizsga. Jelenleg 2–3 képzőhely, de nincs speciális vizsga.
+
+Cél, hogy legyenek kis beltéri gyakorló eszközök. Páneurópai piknik
+modellező repülőtér. TAEG egyeztetésben modellrepülőtér! egyszer bejegyezni.
+
+Folcz Ádám erőltetné a témát.
+
+KT jóváhagyás kellene még második félév előtt.
+
+* NAVISCON továbbképzés
+ESZR TERI képzések.
+Folczékkal megbeszélték, hogy legyen hozzáférés TAEG adatokhoz.
+
+TERI  térképi alkalmazás. Egyszerű felület és sokan használják.
+Mátyás Kati Váradi Józsin keresztül az egyetemi szerver adminisztrációja.
+
+Milyen volt a képzés? Gézának nem tetszett. Sok modult mutattak be.
+
+- TERI :: térképező
+- ETA :: készletnyivántartó szállítójegyek
+- FATI :: erdőrendezést is támogatja.
+
+Jogi szabályozás nincs cég üzemtervez, elküldi hatóságnak.
+Kormányhivatal részei. Szűkös a kapacitás!
+
+FATI új. TAEGnek nincs meg. Kivetítőn mutatták a sok
+rendszert. Áramszünetek voltak.
+
+Sokan voltak. Karról, Roth és TAEG.
+Technikai döcögők.
+
+Mezőgazdasági modul is van, de senki sem használja.
+
+ETA 11-12, FATIt is sokan. Nálunk is TERI fontos lenne.
+TERI mobilos alkalmazás. Három kozmetikai réteg van,
+pont vonal felület, de nem lesz belőle térkép.
+
+* Autó
+Az lenne a jó, hogy szerelőt megkérdezni.
+Hibajegyzék:
+- Ventillátor és a mögötte a maszk.
+- Gumicsere, új felnire. Új felnin a régi gumi, ezt az évet kifutja.
+- Tomi szerint alulról kiesett műanyag burkolat.
+
+
+- Gumit elvisszük
+
+* Projekthét
+Van-e gond és fejlemény. Akinek tudtuk elfogadtuk.
+Utas 6 vagy 7 fő.
+
+Geós mikor kezdődik? 18 órának?
+
+Nem kiforrja magát, egyre nagyobb a kavarodás.
+
+* GGTB
+X. osztály
+Újraalakuló ülés. Ádám Jóska helyett Rózsa Szabolcs az elnök.
+
+* Egyéb
+
+** Rezervátum
+Pénteken jó-e? Harmadik ember kellene.
+Drónozással összekötve.
+
+** Biztostás
+Német modellező klubon keresztül. Az egész szervezetre.
+A pilóták önállóan regsztrálhatnak, le lehet tölteni.
+Egyetem pilótái.
+
+** Magyar Tudomány Ünnepe
+Kiküldeni a meghívót.
+
+Ülések lesznek a X. osztályban. Meteo, multi diszciplináris.
