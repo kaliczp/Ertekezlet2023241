@@ -1,0 +1,130 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:nil broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:nil e:t email:nil f:t inline:t num:nil
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:nil tasks:t tex:t
+#+OPTIONS: timestamp:nil title:t toc:nil todo:t |:t
+#+TITLE: Intézeti értekezlet (Projekthét)
+#+DATE: <2023-11-07 k>
+#+AUTHOR: Kalicz Péter
+#+EMAIL: kaliczp@gmail.com
+#+LANGUAGE: hu
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.9)
+
+
+* Jelen
+8.45 órától lenne, de kicsit késve kezdünk.
+** Szobában
+- KiGé
+- HoTi
+- ZKiKA
+- SzBo
+- PrPé
+- SzÁr
+- CzKo
+- KiBa
+- GrZo
+- KaPé
+- HeAn
+
+** Online
+
+- BrGá
+
+
+** Nincs
+- BaTa
+
+* Kari Tanács
+Hallgatói szervezetek bemutatása.
+Kele Zsombor HÖK elnök.
+
+** Minőségbiztosítási beszámoló
+Jövőre akkreditáció!
+
+Honlapok. Átstruktúrálás. Nem volt határidő. Angol honlapok sem OK.
+
+** Felvételi
+Kovács Gábor beszámolt.
+
+Technikumban változik az érettségi. Nem jönnek egy csomóan.
+Kornél szerint nem 50, csak 25%.
+
+** Záróvizsga bizottságok
+Csak adjunktus van.
+
+** Kari Tanács 2024 ülésrendje
+Szenátushoz igazodik.
+
+** Hallgatói kitüntetések
+Molnár Mónika Mercédesz és 
+
+** Egyebek
+
+*** Publikációk
+Kornél.
+
+*** Zöld könyv új kötet
+Termőhelyesek írták.
+
+*** Erdészeti Tudományos konferencia
+Jövőre lesz. Meghívó és űrlap kész.
+
+*** 30 éve alakultak az erdőgazdaságok
+Rendezvény nov 21 kedd 9:30– ligneum és szenátus.
+
+Államtitkár úrral.
+
+*** Szakmérnöki
+40–20% személyi.
+
+
+*** Rendezvény
+Kornél rendezvényen előadást tartott. Magyar-osztrákok.
+
+Leköszönt Botond
+
+* Órarendi igények
+Kinek mi az igények.
+
+* Számítógépes laborok
+Prioritások megadni.
+
+* Záróvizsga
+Második félévben legyen-e?
+Fajlagos időt nézik. Kornél szerint nem több idő.
+Ha indítjuk nem lesz rendszer belőle?
+
+* Tantervfejlesztés
+WRC megbeszélés. Volt átvilágítás 20 diás vélemény készült.
+Decemberbe tervezett új időpont.
+
+* Plotter
+Indítsunk minél hamarabb a tintákra fluentát.
+
+* Jeli munka
+Második kört megnyertük.
+
+* Porszoba
+Markó Balázzsal összefutott KiBa. Zsidákovits Norbi az illetékes.
+Idén nem lesz semmi.
+
+* Kocsi
+Hátsó ajtó időnként nem nyitható.
+
+Ventillátoron kívül nem volt semmi.
+
+* Egyéni védőeszközök
+Kinek milyen állapotba van a mostani.
+Megfelelő, vagy cserére javasolt?
+
+* RRF megbeszélés
+Holnap lesz. Tomi mondta, hogy az menjen, akit érint.
+Gábor Tamás PP és CzKo érintett. HeAn kari felelős.
+
+Geodézia I. és Geodéziai hálózatok útmutatók fejlesztése.
+
+Áron szerint csak fönt voltak Fehérváron a jegyzetek.
+
+* Bence ünneplése
