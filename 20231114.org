@@ -1,0 +1,105 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:nil broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:nil e:t email:nil f:t inline:t num:nil
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:nil tasks:t tex:t
+#+OPTIONS: timestamp:nil title:t toc:nil todo:t |:t
+#+TITLE: Intézeti értekezlet
+#+DATE: <2023-11-14 k>
+#+AUTHOR: Kalicz Péter
+#+EMAIL: kaliczp@gmail.com
+#+LANGUAGE: hu
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.9)
+
+
+* Jelen
+8.45 órától lenne, de kicsit késve kezdünk.
+** Szobában
+- KiGé
+- HoTi
+- SzBo
+- BaTa
+- CzKo
+- SzÁr
+- KiBa
+- BrGá
+- ZKiKA
+- GrZo
+- KaPé
+
+** Online
+- HeAn
+
+** Nincs
+- PrPé
+
+
+Üzbég édességek.
+
+* Projekthét adminisztráció
+Keddig kellene.
+Ne erőltessük túl.
+
+Lezárni.
+
+* Szép Kártya
+
+* Autó
+Vagyongazdálkodási terv elfogadva.
+Lehet idén lesz autó.
+
+* Szaktanári
+Csütörtök-pénteken szaktanári továbbképzés
+Teremcsere.
+
+Ne kelljen járkálni, azért egyben 8 óra + ebédszünet.
+
+Messzebbről is jönnek autóval. Soproniak nem.
+
+Különböző képzettség.
+
+EATK-val szerződés miatt az időzítést megbeszélni.
+
+Térinfó, Erdészeti, terepi, Távérzékelés...
+
+* Autó
+Csütörtökön vad számlálás.
+
+Balázs elhozta a kölcsön kamerát. Vadszámlálás.
+
+* TKP leadási határidők
+Keddig. Megbeszéljük.
+
+* Ház
+Visszajelezve Tibsének.
+Szombaton lesz. Segítsenek tájékozódóknak.
+
+* Agrárminisztérium
+Sok minden nincs benne. Felújítások sikeressége
+
+* Órarendi igények
+Leadva.
+
+* Egyéni védőeszközök
+Tímea online küld. Holnap délig leadni.
+
+* Múlt heti RRF
+Konkrétum nem hangzott el. Nagyon szétszórt volt.
+Tari Tomi tartotta. Összegyetemi hasonló.
+
+500 hallgatót megszólítani. Milyen tárgyak?
+
+Nem tiszta milyen anyagot 13 hétre 3*30 perce anyag. Nagy vita volt.
+
+39 félórás anyag.
+
+Videó és szóbeli anyag. Széttördelve kérik.
+
+Van akinek már most kell teljesíteni.
+
+Mi lenne jó?
+
+* Egyebek
+
+
