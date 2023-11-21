@@ -1,0 +1,109 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:nil broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:nil e:t email:nil f:t inline:t num:nil
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:nil tasks:t tex:t
+#+OPTIONS: timestamp:nil title:t toc:nil todo:t |:t
+#+TITLE: Intézeti értekezlet
+#+DATE: <2023-11-21 k>
+#+AUTHOR: Kalicz Péter
+#+EMAIL: kaliczp@gmail.com
+#+LANGUAGE: hu
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.9)
+
+
+* Jelen
+8.45 órától lenne, de kicsit késve kezdünk.
+** Szobában
+- KiGé
+- HoTi
+- BaTa órán volt jogosultságokra jött.
+- KiBa
+- SzÁr
+- BrGá
+- ZKiKA
+- GrZo
+- KaPé
+
+** Online
+- HeAn
+- PrPé
+
+** Nincs
+- SzBo Lakcímváltozást intézett.
+- CzKo Órát tart és késett
+
+* Többoktatós vizsgáztatás
+Géza küldte a listát.
+Párhuzamosan vizsgáztatás. A hallgató tudjon választani.
+
+Eljárásrendet kaptunk. Külön levél volt a felvezetés.
+Hatékonyságot növelő vizsgarend.
+
+Egy tantárgyból több oktató is vizsgáztatni fog. A félév tanmenetét
+az anyagot juttassa el.
+
+Egy-egy oktató kétszeres vizsga.
+
+PrPé még ha erőltetik sem tudják vállalni.
+
+* Publikációk
+Géza most továbbította a táblázatot.
+Rosszul állunk a publikációkkal.
+
+Kari átlag alatti teljesítés. 11 publikáció a 175 EMK-ból. 6% részarány.
+
+WOS 2 db a 48-ból 4%. Elég cudarul állunk. XI hó.
+
+Kornél 4 intézeti.
+
+Időarányosan is rosszul állunk.
+
+HeAn még átfutás alatt vannak cikkek. Tímeának volt. Mindenki figyeljen oda.
+
+Kari kiadványban 6 intézeti cikk.
+
+Jankót kell felpörgetni.
+
+SzÁr alföldi erdők megvan.
+
+KiBa-nak is lesz cikke.
+
+* Jogosultságok
+Péter meg Zoli megkapták. Visszaküldték a minisztériumi jóváhagyást.
+Nem látják, hogy elveszítik.
+
+* Szabadságok
+Holnap délig újabb terveket kell leadni.
+
+* Defibrillátor
+2 perces videó.
+
+Milliós készülék a Bajcsy portán.
+
+* Alstor gépbemutató
+Jövő hét csütörtök lesz. November 30.
+
+* Könyvek
+Át kellene nézni. A könyvtár jött. 4-es végén és a folyosón a folyóiratban.
+Móni ma jönne.
+
+* Autó
+Átment a fluentája. Szürke lesz. Mikor kattintják le a Kincses Zsolt
+a szeptember óta még tartják az autót.
+
+* Intézeti karácsony
+Köv hét eleje 18–20. de nem jó.
+
+14-e közös ebéd és düllöngés.
+
+* Egyebek
+** Téligumi
+Autó téligumi. Gumist hívja Kati.
+Péntekre. Csütörtök 10-ig.
+
+** Kari vacsora
+Kari vacsora dec 15. 18-kor kezdődik.
+Ki-kit értesít? Megvan-e.
+A beszél karit és intézetit kell egyeztetni.
