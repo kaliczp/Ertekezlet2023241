@@ -1,0 +1,113 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:nil broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:nil e:t email:nil f:t inline:t num:nil
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:nil tasks:t tex:t
+#+OPTIONS: timestamp:nil title:t toc:nil todo:t |:t
+#+TITLE: Intézeti értekezlet
+#+DATE: <2023-11-28 k>
+#+AUTHOR: Kalicz Péter
+#+EMAIL: kaliczp@gmail.com
+#+LANGUAGE: hu
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.9)
+
+
+* Jelen
+8.45 órától lenne, de kicsit késve kezdünk.
+** Szobában
+- KiGé
+- HoTi
+- SzBo
+- PrPé
+- KiBa
+- SzÁr
+- BrGá
+- ZKiKA
+- GrZo
+- KaPé
+
+** Online
+- BaTa órán volt 
+- HeAn
+
+** Nincs
+- SzBo Lakcímváltozást intézett.
+- CzKo Órát tart remélhetőleg befut
+
+* Többoktatós vizsgáztatás
+Az a lényeg, hogy 18 hallgató lemorzsolódás miatt 100 milliókat buktunk.
+Nem akarják diszkriminálni az oktatókat.
+
+A múltkori táblázat. Ha van, aki bevállalja.
+
+Lemorzsolódás. Balekteszt. Törteket nem tudnak összeadni.
+
+Legyen, aminál felajánljuk.
+
+Megyünk Kovács Gáborhoz és elsimítja a dolgot.
+
+** Alapítványi egyetem
+Hogyan megy?
+
+** Kreditvétség
+Van, vagy nincs. Tucatot meghaladó A típus.
+Dénesnek van igaza?
+Mi az, amit tudni kell?
+
+* Megajánlott jegy
+Hivatalo nem ment eddig?
+
+Harmadik ZH megy Erdészeti vízgazdálkodásból.
+
+* Erdőgazdaságok szülinapja
+Protokolláris rendezvény volt. Nincs az Egyetem honlapján hír!
+
+Kis László OEE megnyitó. Rektor összeállítása.
+
+Szabados János APV Zrt. felosztotta.
+
+Délután fogadás és előadások.
+
+* Publikációk
+Kari kötet megjelent.
+Ha feltették, MTMT-be vigyük fel.
+
+Arculati minta hol?
+
+* Defibrillátor
+MEGNÉZNI!
+
+* GINOP
+December 1-ig újabb fenntartási jelentés.
+Elcsesztük. Nagy-gyakorlat. Mindenki, akinek van valamilye
+Kilóra. Kis Leica, nagy Leica...
+Ahol használva voltak az eszközök. Utólag nem lehet betenni.
+
+Két cikk volt, amire hivatkoztak. Címe mi volt angolul?
+
+MTMT-nél hozzá lehet rendelni a támogatást. Amikor leszűrik, akkor látszódik.
+
+* Elektronikus kari tanácsi szavazás
+Valamit küldtek a szakirányú továbbképzési szak megszüntetéséről.
+Agroerdészetet bejegyezték MSc-ként.
+
+* CORRIGO
+le fog járni december 6-án Kuli?
+
+gki@gmail.com felhasználóval.
+
+BorderEyeból mehet. GNSS szolgáltatás.
+
+* Szakdolgozat védés
+Jan 11–12-én.
+
+Holnap
+
+* Szép
+Facsi írt 
+Lehet hidegélelmet.
+Aug 1–dec 31-ig.
+
+* Levelező óra
+Itt eljöttem. Volt még az erdőrezervátum.
