@@ -1,0 +1,152 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:nil broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:nil e:t email:nil f:t inline:t num:nil
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:nil tasks:t tex:t
+#+OPTIONS: timestamp:nil title:t toc:nil todo:t |:t
+#+TITLE: Intézeti értekezlet
+#+DATE: <2023-11-28 k>
+#+AUTHOR: Kalicz Péter
+#+EMAIL: kaliczp@gmail.com
+#+LANGUAGE: hu
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.9)
+
+
+* Jelen
+8.45 órától lenne, de kicsit késve kezdünk.
+** Szobában
+- KiGé
+- HoTi
+- SzBo
+- CzKo
+- PrPé
+- SzÁr
+- BrGá 9:15-re jött.
+- GrZo
+- KaPé
+
+** Online
+- KiBa
+- HeAn
+
+** Nincs
+- BaTa
+- ZKiKA szabin
+
+* Ki hol?
+
+* Zöld város – zöld egyetem
+Rektor és polgármester holnap 10-től szenátusi teremben.
+
+Polgár András tájékoztatást ad, utána aláírás.
+
+* Porszoba
+Újabb felvonás.
+
+Múlt héten Zsidákovits Norbert. Pénteken költöznek.
+Felújítás és felújítás tervezése sem történt meg.
+
+KiBa nincs új információ. Fások kiköltöztek. Lehetne költözni.
+Bálint felvetette, hogy az NRRCben egy másik helységben. Van ahonnan
+kiköltöznek. Föl nem lehet vinni a proktor miatt.
+
+Föl tudjuk vinni, de másoknak rössz.
+
+* TDK
+Holnap lesz. Előadóknak 12-től, hallgatóságnak 13-tól.
+Nyílt nap 10-től. Két műszer szintező és teodolit. Inkább újabb.
+
+Délig lemegy. 10-től Ligneumban közös, utána háromnegyedtől szakonként.
+
+* Védések időbeosztása
+December 7-ig kell leadni. Ki kell küldeni. Mappában fent van.
+
+Január 11. védés. Melyik napra tegyük?
+Csütörtök jobb, pénteken is lehetne.
+
+karoly.szabo@envirosense.hu
+szakari@gmail.com
+
+Január 15 hétfő záróvizsga 9-től elég. Botond a titkár.
+
+pdf jegyzőkönyv Word-be küldi át. Mindenkivel aláíratni.
+
+* Több oktatós vizsgáztatók
+Központilag intézik. Négyest hozzárendelni.
+Infrastruktúra és közlekedés.
+
+Általános dolgokat írt.
+Sok idő az átadása a vizsgáztatásnak.
+
+* Angol képzés
+Angolnyelvű képzés lehetetlen leadni az anyagot. Lerakott szint.
+
+* Rendelések
+Inox tartályok, műanyag megjött.
+
+Komplex lab szállított, valaki átvette.
+
+Mi legyen a cuccokkal. Kádak be vannak fagyva. Áron szórakozott a kiszedéssel.
+Hármat nem tudunk téliesíteni.
+
+Felhozni hármat és beszámozni.
+
+* Jeli arborétum
+Szerződéssel kapcsolatban. Know-how írjuk bele a szerződésbe.
+Díjat mebontani szerződés és e know-howra.
+
+Bruttó díj 10%-a. Jogszabályi előírások és meglévő procedúra.
+
+* Fogyatékkal élők
+Kurzusok mehírdetve, Tímea kiírja. Öt évre vonatkozva.
+Sok választ kell.
+
+* Heineken
+Dec. 12. Heineken és egyetem megbeszélése. Közös témákat és közös
+témák. Zéró emisszió, biogáz.
+
+Nagy részletességű felmérés kell.
+
+* Egyebek
+** Szakdolgozat
+Szakdolgozatokat fogadjátok el a repozitóriumban.
+** Egyéni védőeszköz
+Jövőre saját keretre finanszírozzuk. Milyen pénzügyi keretből.
+Pályázati forrás. Erdőlabra mehet, hogy jövőre mennyi lesz.
+
+Erdőlabban részt vesz, illetve a BorderEyeban. TKP-ban.ű
+
+Bakancsról rossz a vélemény, esőkabát nagy és nehéz.
+** Corigo
+Lejárt, Fluenta fut. Holnap már nem fut a mérés.
+
+** Intézeti karácsony
+14-én 12:30 asztal, 12 igen, 5 talán.
+Csaki Peti.
+20 főre
+
+*** Vetítés
+Géza ötlete az évből max 10 képet.
+
+Török útról Kornél beszámol.
+
+** Vizsgák
+*** Kati vizsga
+Péntekenként a geo gyakorlóba vizsgáztatna. Vizsgák és termek.
+*** Vizsgaidőpontok
+Ki kellett volna írni.
+*** Primusz Peti
+Jóska vagy saját irodába vizsgáztat.
+
+** Tudományos konferencia
+December 8-ig absztraktot leadni
+
+Hallgatóknak szólni. 4-oldal
+
+Katinak módosítani kellett. Módosította elküldte-e? Forestest felvitték.
+
+** Yanes
+Térinformatikai a laborban igazán nincs gép 1205
+
+GT116 intézeti gépek. Lehet használ. Saját Egyetemi accountjával. Portán kulcsfelvétel.
