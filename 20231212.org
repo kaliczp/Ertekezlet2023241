@@ -1,0 +1,141 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:nil broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:nil e:t email:nil f:t inline:t num:nil
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:nil tasks:t tex:t
+#+OPTIONS: timestamp:nil title:t toc:nil todo:t |:t
+#+TITLE: Intézeti értekezlet
+#+DATE: <2023-12-12 k>
+#+AUTHOR: Kalicz Péter
+#+EMAIL: kaliczp@gmail.com
+#+LANGUAGE: hu
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.9)
+
+
+* Jelen
+8.45 órától lenne, de kicsit késve kezdünk.
+** Szobában
+- KiGé
+- HoTi
+- SzBo
+- CzKo
+- BaTa
+- SzÁr
+- BrGá
+- GrZo
+- KaPé
+
+** Online
+- HeAn
+- PrPé
+
+** Nincs
+- KiBa
+- ZKiKA szabin
+
+* Heineken
+Ma határidős a táblázat.
+
+Mit írjunk be? A sörgyár kiválasztott terület felmérése.
+
+* Fogyatékossági táblázat
+13-a határideje. Még nem nyúlt hozzá Tímea.
+
+11-től mindenki érintett. Geoadatbázis kezelés kapcsán Péter.
+
+* Porszoba
+Voltak újabb próbálkozások. Primusz Péter nem tud semmit.
+Mi részünkről mi kellene?
+
+Kérdezték: Mikorra tudunk kiköltözni? Norbi möbül kilépett Markó.
+Milyen műszaki követelmények lennének a kialakításra.
+
+Felső helyiségbe átköltözni? Sokakat költöztetnek.
+
+* Védés
+Kiment mindenkinek a felkérés? Becsatolt mindenkit Tímea.
+Január 11-én védés.
+
+** Záróvizsga
+Tételeken módosítunk. Valaki akar-e változtatni?
+
+* Intézeti karácsony
+Időben délre hívtunk ide. Déltől egyig.
+
+Mustáros csirkemell.
+
+Atyáék sem jönnek, Kucsara Misi sem. Katinak is szólt. Délre jön.
+20 főre van asztal foglalva.
+
+* Egyéni védőeszközök
+ErdőLab mehet, bárkinek lehet venni, de jövőre nem lesz keret.
+Földmérés és GEVI50-t lehet megadni.
+
+BorderEyeba nem lehet. SoilSense?
+
+Nagyobb dolgok a táblákban. Egyéb dologi?
+
+* Projekthét
+Projekthét lezárása és véleményei.
+
+Tavaszi félévben nem lesz.
+
+Szakmai hét lesz, ez a cél irány. Mi tartunk előadásokat a hallgatóknak
+egy hétig.
+
+Szervezze a HÖK Kaán Károllyal, ez ment vissza. Hallgatóknak és oktatóknak is
+sok. Kell-e, hogy minden félévben kötelező?
+
+A héten vezetői megbeszélés lesz.
+
+Rektor: kitalálhatunk mást, de szünet nem lehet!
+Nagy gyakorlatok, földmérés és felmérés gyakorlat.
+
+Jó-e nekünk?
+
+Mikor lesz a szakmai hét? Emailben ment április 2–5.
+
+Február 5–6. 500 ember nem fér be sehová.
+
+Javasoljuk, hogy átkerüljön-e a szakmai hétre?
+Földmérés helyett geodézia, szakmai hét április 2–5-ig.
+
+* Erdészeti lapok
+Kaszap Fruzsina vállalta a szemlézést. Havonta két cikk szemlézése.
+1 oldalas rezümé! Nem túl sokat lehet ajánlani.
+
+1–1 cikk lejöhet. Fatáj is csinálja ezt.
+
+Félévente frissíteni kell.
+
+* TÉR menetrend
+Talán mindenki látta. December 11-től élesedik a rendszer.
+Január 19-ig.
+
+Egyéni értékelő megbeszélések. Ha mindenki kitöltötte utána.
+
+Jövőre húzódik. Január 19 péntek. Janunár 8-ig elbeszélgetések.
+
+* Autó
+Már beírták az alávzszámot. Szerződés előkészítés alatt, csak alá kell írni.
+Itteni kereskedéshez kerül, mehetünk érte. Talán meglesz idén.
+
+* Laptopok
+Beszerzés alatt.
+
+* Kenu
+Nincs jó helyen. Veszélyes volt. El kellene vinni. Felfogatni.
+Megírni, hogy mi kell neki.
+
+Jövőre össze kell szedni. Kis csigák nem drágák. Mennyibe kerül?
+
+* Vizsgáztatások
+Épülethasználat.
+8–16-ig. Vegyük figyelembe.
+Fűtés ideje? Reméljük nem egyenlő az épület bezárással.
+
+* Egyéb
+Képeket ne feledjük?
+
+Rohantam RRF megbeszélésre.
