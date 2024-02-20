@@ -1,0 +1,96 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:nil broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:nil e:t email:nil f:t inline:t num:nil
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:nil tasks:t tex:t
+#+OPTIONS: timestamp:nil title:t toc:nil todo:t |:t
+#+TITLE: Intézeti értekezlet
+#+DATE: <2023-12-12 k>
+#+AUTHOR: Kalicz Péter
+#+EMAIL: kaliczp@gmail.com
+#+LANGUAGE: hu
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.9)
+
+
+* Jelen
+8.45 órától lenne, de kicsit késve kezdünk.
+** Szobában
+- KiGé
+- HoTi
+- SzBo
+- BaTa
+- SzÁr
+- BrGá
+- GrZo
+- KaPé
+
+** Online
+- PrPé
+- KiBa
+- HeAn
+
+** Nincs
+- ZKiKA
+- CzKo vizsgáztat
+
+
+* Diplomavédés
+Megvolt
+
+* Nagyvédés
+Zoli nagyvédése szép volt.
+
+* Záróvizsga
+
+* Educatio
+
+* Drón javítás
+Távirányító. Botond drónja elhozva.
+
+Leica Infinity folyamatban. 10 licenc.
+
+* Autó
+Fóliázásra megy. Mehet-e kari keretre.
+
+* Jeli
+Drónos felmérés és kiegészítő geodéziai felmérés. Jóska is kimegy.
+
+* Egyebek
+** Egyéni védőeszközök
+Fluentát ne indítson.
+Akinek sürgősen kell. Februárig várni kellene.
+
+** Adóelőleg nyilatkozat
+Holnap délutánig Tímea asztalára.
+
+** Kullancs elleni táblázat
+
+** AM támogatás
+Lejár április végén. Árajánlat Fluenta.
+
+Tavaly 1 m Ft beruházási keret. Még egy GNSS.
+
+** Marosi János
+Távérzékelés téma.
+
+** Ingatlannyilvántartás
+Elfelezhetjük. Nem vette fel.
+
+Pete Viktória előadásait felvette Andris?
+
+Át lehetne nézni.
+
+Pete Viktória előadásai megvannak.
+
+Oktatási intéznényként kérhetünk hozzáférést a takarnethez.
+
+Áron utánanéz.
+
+** Porszoba
+Megy az átnézés. Most hétfőn átadták a munkaterületet a FÉSZnek.
+Még nincs kész az új hely, csak ki van festve.
+
+Mivel hosszú átmeneti időszak várható, elektromos hálózat és elszívás.
+Jegyzőkönyv készült, amivel a rektort akarják megkeresni.
+

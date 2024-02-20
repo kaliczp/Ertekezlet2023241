@@ -1,0 +1,164 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:nil broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:nil e:t email:nil f:t inline:t num:nil
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:nil tasks:t tex:t
+#+OPTIONS: timestamp:nil title:t toc:nil todo:t |:t
+#+TITLE: Intézeti értekezlet
+#+DATE: <2024-02-13 k>
+#+AUTHOR: Kalicz Péter
+#+EMAIL: kaliczp@gmail.com
+#+LANGUAGE: hu
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.9)
+
+
+* Jelen
+8.45 órától lenne, de kicsit késve kezdünk.
+** Szobában
+- KiGé
+- HoTi
+- SzBo
+- CzKo
+- BaTa
+- SzÁr
+- BrGá
+- ZKiKA
+- GrZo
+- KaPé
+
+** Online
+- KiBa
+- HeAn
+
+** Nincs
+- PrPé
+
+* Időpont
+8:45 nem jó PrPé-nek.
+Richárd így csinálta az órarendet.
+
+KiBa online elsősorban. Vonat nem ér föl.
+
+Marad az időpont.
+
+* Félévkezdés
+** Tantárgyi követelmények
+Gáboré megvan, mindenkinek fejléc.
+Online nem látszik.
+
+8. határidő.
+
+Tímea pdfesítéi KaPé összefűzi
+
+** Contaminant transport
+Zoli erasmusos.
+
+** Óraterheltség
+KaPé, PrPé és KiBa kell.
+
+KiBa 50-50%-al vannak.
+
+** Vendégelőadókhoz
+Valakit hozzácsap.
+
+Ügyvéd srác. Egy jó kávét.
+
+** Mérnökgeó
+Közműnyilvántartásra Bódis Gábor Mérnökgeodézia II.
+Alagút látogatás előadás
+
+** Drónpilóta
+Sokan vannak. Gyakorlat ütközik.
+
+** Doktori és mérnökgeó
+Jóska irodája órabeosztás.
+
+* TÉR
+Rektori utasítás. Március 1-ig kell kitölteni.
+Megbeszélés az Intézetigazgatókkal a jövő héten. Akkor derül ki,
+hogy az intézeti részt pontosan milyen ütemezésbe kell teljesíteni.
+Március 8-ra szöveges vélemény.
+
+* K+F
+Elmúlt évre nyújtott K+F szolgáltatások. Feladat, eredmény, további tervek.
+
+Jeli ne legyen K+F, mert szerzői jog.
+
+Soil sense nem az.
+
+TAEG az, paperholz felmérés. Csak Evelin tavaly K+F+I.
+
+* Kiváló Kutatási Infrastruktúra
+Soproni Egyetem kutató hálózat legyen átfutni, gyorsan összeszedni.
+Elég komplex. Két óra kell tanszékenként.
+
+K+F összértéke.
+
+Vállalkozásnak sajátbevétel.
+
+VERGA útterv. Gáttervezés is.
+
+35/63 oldalból kiválogattak 13 oldal lényeget.
+
+* Horizon
+Még mindig csak akkor, ha fizetünk. Ha hívnak menjünk be. Associated
+partner. Ha nyerünk pályáznak a kormánynál.
+
+Pulai egyetemmel egyetemi hálózat.
+
+* Autók
+** Új autó
+Holnap viszik fóliáztatni. Ma viszi Tímea mosni. Helybe viszik.
+Több autót is visznek.
+
+MOL kártya nem jött meg. MOL már elküldte.
+
+** Toyota
+Szervízbe, lehet egy hét.
+
+* Egyebek
+
+** Hidegvíz
+Hidegvíz mikor? Csütörtökön... Visszaállás.
+
+** TKP
+Beszerzési stop? Móni mondta. Előző évi maradvány pénzek átvitele a következő évre nem tiszta.
+
+Border Eye megy.
+
+** GNSS
+Ma van a beküldési határidő.
+
+** Iván Gyula
+Felkérés. Klímaváltozás és Geoinformatika, Bioinformatika, Erdeifenyő pusztulás.
+
+Földmérő geoinformatikusok napja. Iván Gyuláék szervezik, klímaváltozás.
+Fokozása. Lejárt a kredit, sokan lesznek.
+
+Március 21 csütörtök.
+
+Térkép előállítás. Online vállaljuk. Helyszíne nem végleges, valszeg Bp.
+
+Idősor lekérdezés pontra.
+
+GoogleEarth engine.
+
+Távérzékelésből lesz.
+
+** Szabadságtervék
+Ha nem tölti ki valaki Tímea ki fogja tölteni.
+
+Földügyi menedzsment. Fejlett technológiák a távérzékelésben.
+
+Klímaváltozás kutatások a GKI-ban.
+
+Leadják a nevünket. TKP-s mérések.
+
+Klímaváltozással kapcsolatos geoinformatikai kutatások a Soproni Egyetem emk gki.
+
+** SoilSense
+1*1 m 1 óra.
+
+
+

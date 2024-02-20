@@ -1,0 +1,151 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:nil broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:nil e:t email:nil f:t inline:t num:nil
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:nil tasks:t tex:t
+#+OPTIONS: timestamp:nil title:t toc:nil todo:t |:t
+#+TITLE: Intézeti értekezlet
+#+DATE: <2023-12-12 k>
+#+AUTHOR: Kalicz Péter
+#+EMAIL: kaliczp@gmail.com
+#+LANGUAGE: hu
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.9)
+
+
+* Jelen
+8.45 órától lenne, de kicsit késve kezdünk.
+** Szobában
+- KiGé
+- HoTi
+- SzBo
+- CzKo
+- HeAn
+- SzÁr
+- KaPé
+- ZKiKA
+
+** Online
+- PrPé
+
+** Nincs
+- KiBa
+- BrGá
+- GrZo beteg gyerek
+- BaTa
+
+
+* Védés
+Még bírálat hiányzik.
+
+* GrZo nagyvédés
+Kik jönnek?
+
+Banadics Adrienn és Balázs Pali jön.
+
+Facsi külön kérte, hogy adjuk le.
+Lehet 17 fős busz lesz!
+
+KiBa nem jön vissza.
+
+Asztalt szerzett.
+
+Kocsit KaPé megnézi.
+
+Reggel 6-kor indulunk. Pénteken felmegy Zoli.
+M1-es gond!
+
+Kornél hezitál, hogy otthonról megy.
+
+Bartók Béla és Budafoki út között. Allé mellett bedugulhat.
+Kedden államvizsga.
+
+* Záróvizsga
+Megkapta mindenki a módosítást?
+5 hallgató lesz.
+
+Mi lenne, ha gyakorlati lenne?
+
+* AM kitüntetés
+Van olyan, ami kor szerint.
+
+Szakmai elismerések.
+
+Különböző időpontokban.
+
+Fashing Antal Bányai Laci felterjesztése.
+
+Kitüntetése.
+
+Zoli megkérdezése, van-e ötlete? Határidőkre is figyelni.
+
+* Erasmus felhívás
+Most a második félévbe.
+
+Nyomtatvány. Holnap délig határidő. Vágvölgyi Andi, akit kérdezni kell.
+
+* NRRC labor fejlesztés
+Engedélyezték a fejlesztést. Kuratórium még nem bólintott rá.
+Specifikációk kellenek!
+
+Tavaly utolsó pillanatba tették be a beszerzési tervbe.
+
+Informatikai labor. 700 e Ft/db nettó. 21 db.
+
+Informatikusokkal előzetes kör KEF-es listából. Lehet külön indítható.
+Egybe megy, akkor derül ki, hogy milyen szintű. Informatikusokkal egy kör.
+
+Összefogását vállalja Kisfaludi Balázs. Tímea segít.
+Kiindulási pontot adjunk meg.
+
+CAD és grafikus kártya. Ugyan az a helység és a gépek cseréje.
+
+* Jeli munka
+Visszakaptuk-e a papírt? Katasztrófa történt.
+21-én aláírták, 21-én vissza is küldték, s tegnap derült ki, hogy hol van.
+Nem tudják indítani.
+
+Terepszemlére lemenni, milyen geodéziai munkálatok kellenek. Januárban megcsinálni!
+
+Felmérést Balázs összerakta. Mindenképpen kell terepi mérés.
+
+Kornél küldött térképet.
+
+250 m, mérést kell csinálni. Mintakeresztszelvényeket adnak.
+Drónos felmérést csináljunk? Össze kellene kapcsolni valamivel,
+amivel épülni tudunk.
+
+Kicsi terület. Nagyobban is lehet gondolkodni.
+
+Mikor lenne? Hőmérsékletet? Mit bír a szenzor?
+
+Február utolsó napja a leadás.
+Jövő hét péntek.
+
+BorderEye val összekötni? Inkább a soilsense?
+Botond gödör detektáló algoritmus van.
+
+* Egyéb
+** Ingatlan nyilv
+Kornél Norbit kérdezi.
+Van egy jó fehérvári jegyzet.
+
+Viktória nem tud valakit ajánlani?
+
+** Educatio
+KaPé ott leszek.
+
+** Laptopok
+Szudáni hallgatóknak laptop számlát viszi át Tímea.
+
+** Autó
+21-én feladták a szerződést. Suzuki nem kapta meg. Talán ott is aláírják.
+Első út a fóliázóhoz. Bogáti Gergővel egyeztetni.
+
+Már a szalonban van. Majd értesítenek.
+
+** Facsi
+Holnap határidős Balázs dolga.
+
+** Új év
+Frissen született BaTa SzBo.

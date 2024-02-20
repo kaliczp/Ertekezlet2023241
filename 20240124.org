@@ -1,0 +1,144 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:nil broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:nil e:t email:nil f:t inline:t num:nil
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:nil tasks:t tex:t
+#+OPTIONS: timestamp:nil title:t toc:nil todo:t |:t
+#+TITLE: Intézeti értekezlet
+#+DATE: <2024-01-24 sze>
+#+AUTHOR: Kalicz Péter
+#+EMAIL: kaliczp@gmail.com
+#+LANGUAGE: hu
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.9)
+
+
+* Jelen
+8.45 órától lenne, de kicsit késve kezdünk.
+** Szobában
+- KiGé
+- HoTi
+- HeAn
+- BaTa
+- KiBa
+- BrGá
+- ZKiKA
+- GrZo
+- KaPé
+
+** Online
+- CzKo
+- SzÁr beteg
+
+** Nincs
+- PrPé
+- SzBo síel
+
+* Órarend
+Megnézte-e mindenki? Kinek van gondja?
+
+Geo I. 10 fő lenne jó B-s tárggyal ütközött.
+Mindent a GT-be írtak ki.
+
+Ez a félév az NRRC laborban ugyan így. Informatikusoknak javítani kell. Enzsöl Ákos elmegy?
+
+Labormenedzsment szoftverben Szászi Tamás
+
+AutoCAD, geoadatbázis kezelés.
+
+Nem azonos a környezet más-más verzió QGIS.
+
+Infinity a régi laborba. Helyette GeoOffice.
+
+Geoadatbáziskezelés rossz helyen. Áttenni.
+
+Boti vinne távérzékelést.
+
+Ingatlannyilvántartásnál legyen beírva aki órát tart.
+Frank Norbi azt mondta, hogy vállalja azt a részt ami jogi. Áron és Bazsó Tomi elkezdték
+átnézni. Áron és Tamás tudja.
+
+Óra keretében szívesen látnak embereket. Norbi mellett ki tartaná.
+
+Norbi megkapja az egész anyagot, és kiválasztja, hogy mit szeretne.
+Általános jogi bevezetőt tarthatna.
+
+A második félévben milyen órarendi leterheltség van. Durva eltérések.
+
+Oktatói szoba a Jóska irodája.
+
+Kutató nap melyik?
+
+* Intézeti időpontja
+8:45-től jó-e?
+
+* TAEG SOS
+Megkeresés. Adategyeztetés.
+Roth szálaló erdő. Helyszín szerepe. Erdőrészletek.
+
+Jövő hét hétfőig kellene. Adategyeztetés néven szerepel. 2023 évben.
+
+* Jeli
+Mértek és a drón mért. Jók lettek az adatok.
+
+* Megjöttek a laptopok SH
+Átadás-átvétel kell.
+
+Gépet várjanak.
+
+- Andris
+- Áron
+- Abdulrahman
+- Osman
+
+* Új autó
+Forgalomba helyezés és átírás.
+Új autóra Casco
+Ávár János nem tudott árat mondani.
+
+Biztosítóváltás lesz.
+
+Egyik célja, hogy gevi50-es keret elfogyjon. Amíg nincs rendszám.
+
+* Jövő héten Géza nem lesz
+Jövő hétre lenyúlná.
+Egyéb dolgokat meg tudjuk-e oldani?
+
+* Rezervátumos GNSS
+Sínen van? Benne vannak a beszerzési igénylapban a cégek.
+
+* SoilSenssel van egy két kör
+8-12-től nem lesz neptun. Karbantartás.
+
+* Jövőhéten kedden kari tanács
+Kedd KT, jövő héten diploma osztó.
+
+Balázs adjunktusi kiírása
+
+** Drónos tárgy
+drónos tárgy Sanyával KiGé.
+B és jogosultságot lehet szerezni. Nem lehet két intézet, földmérő szakon b típusú tárgy.
+VGI a felelős. Óraszámok tekintetében 2+2.
+
+* Neptun
+Kurzuskiírás.
+
+* Meteo
+Drónos tárgy egy előadás meteorológus.
+Kiss Marci.
+
+Forgószínpad szerűen.
+
+* Kocsi jégoldó, kaparó
+
+
+* Egyéb
+** Fogadó órát kitölteni
+Levelezős héten sem lehet ütközés. Két óra legyen. 1*2 óra.
+Holnap reggelig, csütörtök
+
+** Kullancs
+2022
+
+* Tomi ünneplés
+Locsolás pezsgővel
