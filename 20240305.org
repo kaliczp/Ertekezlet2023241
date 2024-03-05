@@ -1,0 +1,163 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:nil broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:nil e:t email:nil f:t inline:t num:nil
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:nil tasks:t tex:t
+#+OPTIONS: timestamp:nil title:t toc:nil todo:t |:t
+#+TITLE: Intézeti értekezlet
+#+DATE: <2024-03-05 k>
+#+AUTHOR: Kalicz Péter
+#+EMAIL: kaliczp@gmail.com
+#+LANGUAGE: hu
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.9)
+
+
+* Jelen
+8.45 órától lenne, de kicsit késve kezdünk.
+** Szobában
+- KiGé
+- HoTi
+- CzKo
+- SzÁr
+- BrGá
+- ZKiKA
+- KaPé
+
+** Online
+- HeAn 
+- KiBa közben jön vonattal
+- SzBo mér
+- BaTa utazik online
+
+** Nincs
+- GrZo felvételin
+- PrPé utazik
+
+* Időpont újra
+Odébb tenni?
+
+11-től délig jó lenne. Esetleg online csatlakozhat.
+
+* Kari tanács
+Az első napirendi adjunktusi pályázat elbírálása.
+
+** Adjuntus
+KiBa pályázata rendben.
+
+2023 EMK beszámoló a szenátusnak. Kari Tanácsi anyag megvolt. Jelentős eltérések.
+Meg kellett volna nézni.
+
+Harmadik napirend tanulmányi rend módosítása. Vadgazda tanút időpontja módosult
+
+** Egyebek
+Roth akkreditáció
+június
+
+Faragó írt. ODT és MTMT frissít, aktuális kiírások!
+
+Nyílt fórum. Márc 26 kövi karitanács.
+
+Javaslatokat várnak. Tanterv és kitüntetések és címek.
+
+Kovács Gábor hallgatói tárgyfelvétel szigorítása.
+72 órás korlát.
+
+Katona György helyett Pásztor Enikő rektorhelyettes.
+
+Lakatos Feri helyett Tuba Katalin az intézetigazgató.
+
+Doktoranduszi fórum.
+
+*** Összoktatói
+Márc 12-én oktatói értekezlet. Űrlap Kovács Gábornak.
+
+* Erdőrezevátum
+13-kor csütörtök megbeszélés. Tud-e valaki csatlakozni.
+Mi lesz a következő rezervátum. Papír róla. Publikációs kiadványok?
+Módszertan. Sok a téma.
+
+* Karbon lábnyom
+Március 8-ig határidő.
+
+* Egyetemi kitüntetések
+Márc. X-ig.
+
+Kitüntetéses levelek. Oktatói kitüntetések.
+
+* Tárgyfelelősség, vendégelőadók
+A fenti emailben.
+
+Tárgyfelelős, intézet módosítása. Jó lenne, ha mostanra össze gyűlne.
+
+Frank Norbi egy órát gondolt adni. Április 12-én. Ingatlannyilvántartás.
+Nem lehetne előbb. Eddig még nem volt óra.
+
+Elején egy alkalom. Alapok és jogi hátterek. Kornél győzze meg, hogy korábban tartsa.
+
+Hová kellett volna beírni? Díjakat indítani. Még négy ember van.
+
+Gézánál van még két-három név.
+
+* Kulcs GT116
+GT116 Németh Laci tudtával másoltatott Géza kulcsot.
+
+* Alföldi Erdőkért tanulmányút
+Levél ment.
+
+* TÉR
+Voltak egyeztetések, úgy kellene megcsinálni, hogy próbálja a
+webalkalmazást kitölteni és végigkattingatni.
+
+Sok problémája volt Gézának is. Nem kell sok időt csinálni. Jó lenne
+megosztani a tapasztalatokat. Pontok tekintetében ne legyenek
+indokolatlan aránytalanságok.
+
+Ha megvan, utána 2023 önértékelési űrlapot. Microsoft Forms. Úgy
+kitölteni, hogy a közvetlen munkahelyi vélemény - elfogadta, pdf-et
+csinálni. És azt elküldeni.  Véglegesíteni kell. Másoljuk magunknak is
+ki, visszaírja a véleményt. Nem olyan hosszú. Magyar nyelvű órák nincsen
+benne. Neptun tér alkalmazásban jól szerepel?! Külön írjuk le.
+2023-as elmúlt év. 13 héttel számol a rendszer.
+
+A másik forms a 2024-es célkitűzések. Nincs lehetőség. Online
+idefutok-odafutok helyett. Itt is kihúzni és véglegesíteni.
+
+Kihúzott vélemény gondot okoz majd megoldjuk.
+
+Még nincs fent a Jankó az MTMT-n. Ha valaki tud hasznos praktikákat
+megosztani, ne tartsa vissza.
+
+A neptunból átvegye az angol órákat fejlesztés alatt van.
+
+KiBa SzÁr gondok vannak. Balázs az MTMT-t beolvasta valahogy
+kézzel, s felvitte kézzel a neptunból.
+
+* Egyebek
+** NRRC
+Zsákai Balázs elküldte. 700 e Ft kis rugalmasság. Új ajánlat.
+Majd küldik.
+Küld egy összefoglalót.
+
+** Kooperatív Doktori indítás
+Március 22 péntek VERGA Kooperítív doktori program indítás.
+
+** Autó
+*** Toyota
+Toyota szerelőnél. Marad a műszer benne. Műszakira felkészítés. Júniusban.
+Milyen korlátok? Kell-e három árajánlat? Szakszervíz túl drága, adjon ajánlatot.
+
+Lökhárító, futómű, ventilátor, hátsó ajtó, nyikorog a kuplung.
+
+Délre meglesz az árajánlat, azzal együtt elhozzák a műszert. Összeg ismeretében
+megbeszéli Tímea Kincses Zsolttal.
+
+** Áron
+Szombat-vasárnap menne doktorihoz méréseket csinálni.
+Leicát is elvinné.
+
+** EMK labor megbeszélés
+Balázs megy Tímeával.
+
+** TÉR
+Zoli mondott valamit.
