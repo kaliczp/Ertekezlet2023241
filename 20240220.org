@@ -1,0 +1,141 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:nil broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:nil e:t email:nil f:t inline:t num:nil
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:nil tasks:t tex:t
+#+OPTIONS: timestamp:nil title:t toc:nil todo:t |:t
+#+TITLE: Intézeti értekezlet
+#+DATE: <2024-02-20 k>
+#+AUTHOR: Kalicz Péter
+#+EMAIL: kaliczp@gmail.com
+#+LANGUAGE: hu
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.9)
+
+
+* Jelen
+8.45 órától lenne, de kicsit késve kezdünk.
+** Szobában
+- KiGé
+- HoTi
+- SzBo
+- CzKo
+- BaTa
+- SzÁr
+- BrGá
+- ZKiKA
+- GrZo
+- KaPé
+
+** Online
+- KiBa közben jön vonattal
+
+** Nincs
+- PrPé utazik
+- HeAn szabin
+
+* Félévkezdés
+Vendégelőadók. Még további személyek.
+
+Norbinak sok tárgya van.
+
+* EISZ adatbázisok
+Megírni, hogy mit használunk.
+
+* Intézet igazgató értekezlet
+Témák:
+- Félév zárás
+- KEKVA
+- TÉR
+- Pénzügyi tervek
+
+* Erasmus beszámoló
+Jövő hét kedden Erasmus beszámoló.
+
+* Autó
+1 hónap vagy 1000 km elérése után.
+Egy átnézés csak. Nem kötelező. Appli Áron munkája kapcsán mennének
+Ipoly Erdő Váci erdészet.
+
+Zöld kártya nincs kiváltva. Külföldre külön engedély kell.
+
+* Georgikon napok tud. konf.
+Május 17–
+áprilisi jelentkezés
+Agrár, van műszaki is.
+
+* Laborok és számítógépek
+Zsákai Balázzsal találkozott Géza.
+
+21 gépre 700 e Ft-os ajánlatot adnak a laborra. DKÜ listán változtak az árak.
+Beszerzési terv elfogadva, de pénzügyi terv nem.
+
+Másik labor GT116-ban van elfekvő gép. Vissza lehetne vinni a négy gépet, ha
+lenne helyette másik gép. Alapvetően új gépek.
+
+Tímeának ígért Kornél egy jó laptopot. új stipendiumos félév. Ahmed
+Hasoba kért laptopot. Még nincs meg a keret. Lakatos Barbi mondja meg.
+
+GT116-ban is van oktatói belépés. Hallgatóival automatikusan jelentkezik.
+Géza küldi a levelet.
+
+Leica Infinity Hajtó Csaba fogja csinálni. Licenc szervert a szerverre kellene
+telepíteni.
+
+* BorderEye
+Délutáni megbeszélés. Erdészeti bizottság jelentkezett. Állandók.
+Véleményezik a projektet. 7-8-9 munkacsomag. Mire lehet használni a BorderEyet?
+
+Ma 13–15-ig. Munkacsomag vezetők. Hol tartunk és mik az ez évi feladatok?
+
+* Most van CV-s hét
+Géza kiírt szigorlatot a neptunba.
+Kiss Gáspár Levente fia a Kiss Balázs Ádám.
+
+* Porszoba
+Lent nem akarnak már mást csinálni. Kitakarítva, bútorok bevive,
+elszívót építgetik. Fűtéscsövet szigetelni kell. Félig szivacs rajta.
+
+Kell-e hivatalos átadás-átvétel. Zsidákovits elkérte a kucsot, hogy nézzen a kivitelező.
+Balázs ott hagyta a kulcsot.
+
+* Balázs adjunktus
+Előkészítő bizottsági ülés most lesz. Zoli elnököl.
+Utas órák lemennek, de geón jelentkezik feladat. Tegyék be a földrendező képzést.
+
+* Szakirány
+Minden hallgatónak választani kell. Kereteket alakítanak ki. Mindenki szabadon?
+Szakirány rég nem volt a diplomában.
+
+* Egyebek
+** Tímea
+Szabadságterv. Aki nem tölti ki, annak ki lesz töltve.
+
+Botondnak folyamatos lesz a szerződése. Előterjesztést kell írni.
+
+Rezervátum folytatásáról még nincs hír. Szabados Ildikó a rezervátum alapvetően.
+** Forgeo eszközbeszerzés
+Újabb eszköz, szerződéskötés.
+
+** Tűzvédelmi oktatás
+Február 22-éig. Visszajelezni, aki megcsinálta.
+Balázs megcsinálta. 5 oldalas kiírás ÍQ.
+Rendezvényszervezés hány méteres távol a széksor.
+
+** Jóska szobájának beosztása
+Írjuk fel a rendszeres programokat. Hétfőn nincs senkinek sem órája a 4-es teremben.
+
+** Kévé és süti pénz
+Mi lenne ha rendszeresítenénk. Eltérő a fogyasztás.
+Amennyit szánunk rá. Önkéntes alapon.
+
+Havonta mekkora költség. Mondjon Tímea összeget. Kb. havi 2000. 1000 ünneplések
+miatt.
+
+** Orvosi vizsgálat
+26-nap múlva lejárnak az orvosik.
+Be kell jelentkezni a doktornőhöz. Nyugdíjba ment Németh Erzsébet, de maradt üzemorvos.
+Telefonszám:
++36 30 236 0200 meg kell beszélni az időpontokat.
+
+** Egyéb-egyéb

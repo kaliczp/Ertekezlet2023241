@@ -1,0 +1,195 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:nil broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:nil e:t email:nil f:t inline:t num:nil
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:nil tasks:t tex:t
+#+OPTIONS: timestamp:nil title:t toc:nil todo:t |:t
+#+TITLE: Intézeti értekezlet
+#+DATE: <2024-02-20 k>
+#+AUTHOR: Kalicz Péter
+#+EMAIL: kaliczp@gmail.com
+#+LANGUAGE: hu
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.9)
+
+
+* Jelen
+8.45 órától lenne, de kicsit késve kezdünk.
+** Szobában
+- KiGé
+- HoTi
+- SzBo
+- CzKo
+- SzÁr
+- BrGá
+- ZKiKA
+- GrZo
+- KaPé
+
+** Online
+- HeAn
+- KiBa közben jön vonattal
+
+** Nincs
+- BaTa
+- PrPé utazik
+
+* Horizon
+Kati és Zoli beszámol.
+
+Associated partner
+
+Másik partner alá betagozódnak. Ami az Egyetemen van, az még
+rendes partnerként lett beadva.
+
+Kati és Andris, ha kiesnek Keserű Zsolt (ERTI) átveszi.
+
+* TÉR
+Nagyon közeledik a határideje. 1-ig célkitűző megbeszélések.
+
+Ki aki töltötte?
+
+Word-ből és a levélből link. pdf-re nem lehet kattintani.
+Pénteken nem lesz. Jelenlegi kitöltés legyen meg!
+
+Cél óraleterheltség, publikációk és külső kutatások.
+
+Ki-mennyi órát vállal, az a naptunban benne van. Ki-mennyi publikációt vállal.
+
+2023 évet értékelni és 2024 célkitűzés.
+
+Tavalyra vállaltál, mennyi jött össze? Tavalyi terv függvényében...
+Mindenki töltse ki az elmúlt évet és a jövő tervezése. Kinek hány órája van, mennyi
+publikációja.
+
+A TÉR a Neptunból kéri le.
+MTMT-t is beemeli. Nem olyan gördülékeny!
+
+* Intézetigazgatói
+Február 21-én lesz.
+** TÉR
+Nem volt semmi csak a határidő.
+** Őszi félév értékelés
+Publikáció dícséret a karnak.
+
+Sok hallgató a szakközépből. Jövő évi felvételinél létszám visszaesés!
+Csak az tud jönni, aki technikusit idén végzi. Normál szakközépből nem jönnek.
+
+KEKVA mutató. Regionális megtartó erő. Mátészalkáról jönne, visszamegy nincs.
+Ez nálunk hülyeség, megbízott jogász nézi.
+
+Szakmérnöki képzések. 2024 volt őszre a szakmérnöki. A leterheltség miatt.
+Geoinformatika szakmérnöki kreditszerző.
+
+Külföldi megkeresések. Berni főiskola. Két double degree
+- Azerbajdszáni Egyetem Baku környezetmérnök
+- Berni főiskola új erdészeti MSc. Online lesz (moduláris) több
+  partnerrel, gyakorlati félév körforgással. 2025 ősz, dél-amerikai
+  vagy afrikai helyszínek.
+
+University of Applied science (Fachhochschule) a berni. Climate
+forestry. ETH-n volt. Lausanneban volt erdőmérnök.
+
+Stipendium Hungaricumnál Tavaly adminsztratív hiba miatt lecsúsztak.
+
+Városi erdészeti képzés Náhlik dékán úrral.
+
+Kínai erdész dolgok.
+
+** KEKVA még
+KEKVA a keretszerződésben a teljesítmény alapú rész nő Idén 1.5 md Ft
+a teljesítmény alapú rész. Ennek kapcsán jött egy táblázat. Ahol fel
+voltak sorolva dolgok. Kreditelőrehaladás és leorzsolódás. Intézetből
+Primusz Péternek van a tárgya.
+
+17 ember az erdészeknél, aki mintatanterv szerint halad. 50 valahányból.
+
+Az első hat szemeszter most, 2025-től teljes időszakot nézik.
+
+Hallgatók segítése - segítő hallgatók renszert folytatni akarják.
+
+Olyan jellegű csoportbontás, hogy a tárgy ismétlői egyben. Állítólag hatékony.
+
+** Tantermek állapota
+Jelezzük, ha oktatást nehezítő körülmény van.
+2-es terem padokat cserélték.
+
+NRRC-t megírta a Locsmándi Szabolcsnak.
+
+4-es terem. Projektor jó. Gézánál két projektor.
+Összeírtuk a termeket.
+
+NRRC kábeles projektor. Géza régi gépét ráregisztrálta Szászi Tomi.
+
+GT Közel a projektor és kicsi a vászon.
+Tábla el van használva. Szalagfüggőny nem elég. Most Németh Laci az igazgató.
+Meg kellene kérdezni a másoláshoz.
+
+** Egyéb
+
+Ablakpárkányt a help desken beírni.
+Mosogató alattit is bejelenteni.
+
+Pásztor Enikő oktatási rektorhelyettes lett.
+
+Mobil telefon használat. Szabályozni kellene?
+
+Minimumkérdések ügye. Színvonal lesüllyesztése.
+Hallgatói oldalról is tiszta és átlátható. Minimum, amit ha átugrik megvan.
+
+** Beszerzés
+2024-es beszerzési tervet elfogadták, de nincs pénzügyi
+terv. Bérfejlesztés nincs eldöntve. 2024-es pénzügyi terv addig nem
+lesz. Március elején már a fejlesztett béreket kapjuk.
+
+** Szakirány
+Tárgycsoport választás.
+
+** Összoktatói értekezlet lesz
+Március 5-én 17:30. Oktatói értekezlet.
+Jó példákat be kell mutatni.
+Drónos tárgyak, RRF fejlesztés, Double degreek. Ki lesz színezve.
+Több oktatós vizsgáztatás értékelése. Konkrétumot kell Gábornak mondani.
+
+** ETK
+Január 1-től EATK Papp Laci lett László Richárd helyett.
+Tavalyi tovább képzést ki fogja kifizetni? Egyetemen a pénz!
+
+** Doktorandusz nyílt fórum
+Márc. 5-én kedden. Jó lenne, ha minél többen elmennének.
+16:30
+
+** VEAB közgyűlés
+Márc 1 péntek 14-től. Közös busz miatt. Lakatos pici ad elő.
+
+** Karbon lábnyom
+Március 8-ig kitölteni.
+
+** Nyári gyakorlatok
+Idén összecsúszik a két gyakorlat. Idén két nagy-gyakorlatot kell csinálni.
+17 hallgató lesz, Tomi egyeztetett Kovács Gáborral. Pünkösdi héten a rendes,
+előző héten a másik csütörtök-péntek-szombat a másik. Tanulmányút miat.
+Május 19-20 21–24 a rendes. Csütörtöktől szombatig 16–18. Az utolsó héten.
+
+480 órát emlegetnek 4-6-8 szemeszter után egy-egy hónap. Sillabusz a
+fogadóknak. Színes legyen.
+
+** Kutatási infrastruktúra pályázat
+Aki címet nyer GINOP+-ra pályáznak.
+
+** Helységnyilvántartás
+El kellene küldeni. Excel és alaprajzok.
+
+** Polgár András csoportja
+Nagy megkereséek, kevés szellemi erőforrások OTP csoport vállalt
+volna auditot. Karbon kvóták... Lehet-e segítséget kérni Frank Norbitól.
+
+** Földmérő világnap
+Pár soros absztraktot küldeni.
+Klímaváltozással kapcsolatos előadások 2000 
+
+** Egyéb
+Ingatlan-nyilvántartás
+Elmaradt, mi lessz a hallgatókkal?
+
+Tűzvédelmi oktatás.
